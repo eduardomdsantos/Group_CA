@@ -22,7 +22,40 @@ Negative:
 1.
 2.
 3.
-## Business Viepoint Analysis
+## Business Viewpoint Analysis
+
+### Defining the Business Viewpoint
+The business viewpoint looks at money,competition and value. so they always focus on making money and how to compete with other companies and how they can grow their business. when we look at social media we all have the same question how are they making money though we use it for free?. but actually the answer is they are making money from people time and attention mostly by showing adverts. so the more you see theireads the more they make money.
+
+
+
+
+
+### MySpace
+
+
+
+
+
+### Facebook
+
+
+
+
+
+### Instagram
+
+
+
+
+### TikTok
+
+
+
+
+
+
+### Connection to Module Concepts
 ## Ethical Reflections & Improvements
 ### Critical Evaluations
 ### Solutions
