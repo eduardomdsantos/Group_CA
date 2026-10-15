@@ -22,16 +22,14 @@ Negative:
 1.
 2.
 3.
+
+
 ## Business Viewpoint Analysis
 
 ### Defining the Business Viewpoint
 The business viewpoint looks at money,competition and value. so they always focus on making money and how to compete with other companies and how they can grow their business. when we look at social media we all have the same question how are they making money though we use it for free?. but actually the answer is they are making money from people time and attention mostly by showing adverts. so the more you see theireads the more they make money.
-
-
-
-
-
-### MySpace
+### MySpace 
+Myspace was one of the first and big social media sites and it showed that social media is worth a lot of money. in 2005 a company called News Corporation bought my space for $580 million(NRP,2011). at his time he had 70 million visitors (NPR,2011). per month but after that when Facebook became more popular and lof of people swtiched to it and all adds and other staff were on it myspace was sold for $35 million (NPR,2011) its big loss for a company. and from business view point this shows that having to much viewers only is not enough you always need to keep improving your app and follow the trend or people will move to something better.
 
 
 
