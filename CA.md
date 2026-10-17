@@ -10,20 +10,26 @@
 ### Major Milestones
 ## Societal Viewpoint Analysis
 ### Definition of the societal point of view:
-A societal viewpoint is a perspective of society or an average person on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, interactuions and communication, quality of life for end users and also politics.
+A societal viewpoint is a perspective of society or an average person on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, quality of life in communities and politics.
 ### The impact:
 # Education:
 How it is related: As the social media became more accessable and widely used, a lot of poeple from the education sphere have adapted the social media platforms for various reasons, the impact of that adaptation is shown below:
 Positive:
-1.
+1.Stay in touch: Students have easier time communicating and socialising  with eachother via shared platforms like instagram, tiktok and snapchat
 2.
 3.
 Negative:
-1.
-2.
+1.Distraction: It has become a common issue that social media platforms, especially the ones that offer a short video format or FYP (For you page), distract students from thei work, weather it is at home, when they prefer to spend their evening scrolling through those videos or even in class, where they choose social media and entertainment over a lecture or a class
+2.Focus:
 3.
-
-
+# Communities
+How it is related:
+Positive:
+Negative:
+# Politis
+How it is related:
+Positive:
+Negative:
 ## Business Viewpoint Analysis
 
 ### Defining the Business Viewpoint
