@@ -16,20 +16,26 @@ A societal viewpoint is a perspective of society or an average person on a topic
 How it is related: As the social media became more accessable and widely used, a lot of poeple from the education sphere have adapted the social media platforms for various reasons, the impact of that adaptation is shown below:
 Positive:
 1.Stay in touch: Students have easier time communicating and socialising  with eachother via shared platforms like instagram, tiktok and snapchat
-2.
-3.
+2.Information: It became much easier for schools and universities to keep students updated on news and important information vie the "official school/university account" on social media platforms like intsgram, where they can post updates on everything that is going on within the institution, rather than having to send out the messages seperately. This also helps the facilities deliver the important information during the weekends, instead of having to wait for students to show up to school.
 Negative:
 1.Distraction: It has become a common issue that social media platforms, especially the ones that offer a short video format or FYP (For you page), distract students from thei work, weather it is at home, when they prefer to spend their evening scrolling through those videos or even in class, where they choose social media and entertainment over a lecture or a class
-2.Focus:
-3.
+2.Focus: The same format of short videos also strongly affects students ability to focus on long texts or lectures. According to ("Frontiers of neuro sciance", reasearch of 2024), a long exposure to the format of short videos that you dont realy pay too much attetnion to affects your dopamine levels and neural activity, in other words, it causes an addiction to quick dopamine,which prevents the person from concentaiting for a long time.
 # Communities
 How it is related:
 Positive:
+1.
+2.
 Negative:
+1.
+2.
 # Politis
 How it is related:
 Positive:
+1.
+2.
 Negative:
+1.
+2.
 ## Business Viewpoint Analysis
 
 ### Defining the Business Viewpoint
