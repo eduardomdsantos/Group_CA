@@ -7,6 +7,14 @@ The significance of it is the importance and the fact that social media platform
 ### Thesis Statement
 ### Viewpoint Selection
 ## Historial Development
+2003-2004
+Chris DeWolfe, Tom Anderson and Jon Hart founded Myspace orgininally named 'Sitegist', On August 1st which started as a college project. Myspace allowed users to have their own personal pages which were highly customizable allowing users to edit almost every aspect of their page. In 2004, 'The Facebook' now known as Facebook launched and was founded by students in Harvard University. It allowed users to post photos of themselves and information about their lives. By the end of 2004, Facebook reached one million users but still trailed the leading social network which was Myspace which had five million users.
+
+2005-2006
+On February 14th, 2005, YouTube was registered. It was orgininally used as a video based dating website but struggled to attract users. The site became one of the largest video sharing websites when one of the founders Jawed Karim uploaded a video titled "Me at the Zoo" which was a 19 second clip of him infront of a elephant enclosure. It opened a limited beta and was attracting almost 30,000 visitors per day.
+On July 15th, 2006, a company named Odeo launched Twttr which was changed to Twitter and was a short messaging service for groups to the public. It was born as a side project from Odeo's main podcasting platform. It allowed users to share status updates with groups of friends by sending one text message to a single number.
+
+2010-2011
 ### Timeline
 ### Key Figures
 ### Major Milestones
