@@ -1,5 +1,6 @@
 # Evolution of Social Media Platforms
 ## Introduction
+The evolution of social media platforms
 ### Context
 ### Significance
 ### Thesis Statement
