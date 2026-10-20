@@ -1,6 +1,6 @@
 # Evolution of Social Media Platforms
 ## Introduction
-The evolution of social media platforms
+The evolution of social media platforms impacted the world and still does in relation to its historical development, politics, ethics and the economy of the world
 ### Context
 ### Significance
 ### Thesis Statement
