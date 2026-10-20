@@ -68,7 +68,11 @@ Myspace was one of the first and big social media sites and it showed that socia
 
 ### Connection to Module Concepts
 ## Ethical Reflections & Improvements
-### Critical Evaluations
+### Identified Ethical Issues
+#### Privacy Concerns
+#### Cyberbullying and Mental Health
+#### Social Media Misuse and Oversharing
+#### Data Sovereignty
 ### Solutions
 ## Conclusion
 ### Synthesis
