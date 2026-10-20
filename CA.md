@@ -28,14 +28,31 @@ Negative:
 
 ### Defining the Business Viewpoint
 The business viewpoint looks at money,competition and value. so they always focus on making money and how to compete with other companies and how they can grow their business. when we look at social media we all have the same question how are they making money though we use it for free?. but actually the answer is they are making money from people time and attention mostly by showing adverts. so the more you see theireads the more they make money.
+
 ### MySpace 
-Myspace was one of the first and big social media sites and it showed that social media is worth a lot of money. in 2005 a company called News Corporation bought my space for $580 million(NRP,2011). at his time he had 70 million visitors (NPR,2011). per month but after that when Facebook became more popular and lof of people swtiched to it and all adds and other staff were on it myspace was sold for $35 million (NPR,2011) its big loss for a company. and from business view point this shows that having to much viewers only is not enough you always need to keep improving your app and follow the trend or people will move to something better.
+MySpace was one of the first big social media sites. in 2005 a companu called News Comporation bought MySpace for $580 million (NPR,2011).
+postive:
+1. it show that social media is worth a lot of moneu, because a big comapny paid $580 million for it (NPR,2011).
+2. At its peak, it had 70 million visitors per month (NPR,2011).
+Negative:
+1. When facbook became more popular, a lot of people switched to it and advertisers moved there too.
+2. MySpace was sold for only $35 million, wich was a big loss for the company (NPR,2011).
 
-
-
+From a buisness viewpoint this shows that only having a lot of viewrs is not enough you always need to keep imporoving your app and follow the trends or people will move to somthing else.
 
 
 ### Facebook
+facebook is free to use, but it makes almost all of its money from ads when people use facbook they share things like their age where they live and what they like so facbook can show ads to right people.
+## Positive 
+1. In 2024, Meta the company that owns Facbook made $164.5 billion and $160.6  billion of that came from ads (Meta platforms,2025)
+2. By december 2024, around 3,35 billion people were using Meta's apps evryday (Meta platfroms,2025).
+## Negative
+1. About 98% of its money comes from ads so if advertisers stop paying the could lose most of its income.
+2. Ad prices can go down too, in 2023 the average price per ad went down  by 9% (Meta Platforms,2025).
+
+from a business viewpoint this shows that information about users is very valuable but depending on only one way to make money is risky.
+
+
 
 
 
