@@ -2,6 +2,7 @@
 ## Introduction
 The evolution of social media platforms impacted the world and still does in relation to its historical development, politics, ethics and the economy of the world
 ### Context
+The birth of social media
 ### Significance
 The significance of it is the importance and the fact that social media platforms have drastically changed the world in terms of the economy, ethics and technological advancements which impact bussinesses and education
 ### Thesis Statement
