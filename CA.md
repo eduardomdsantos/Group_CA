@@ -39,6 +39,7 @@ Negative:
 1.
 2.
 # Additional evidence and information
+
 ## Business Viewpoint Analysis
 
 ### Defining the Business Viewpoint
@@ -70,13 +71,11 @@ Negative:
 
 From a business viewpoint, this shows that information about users is very valuable, but relying on only one way to make money is risky.
 
-
-
-
-
-
-
 ### Instagram
+Instead of only competing with new apps, Facebook bought them. In April 2012, Facebook agreed to buy Instagram for about $1 billion (NPR, 2012). At that time, Instagram was a very small company with 13 employees (NPR, 2012), but it was growing very quickly and getting popular with young people.
+
+Positive:
+1. Facebook got rid of the competition that was growing. If Instagram had kept growing on its own, it could have taken most of the young users away from Facebook.
 
 
 
