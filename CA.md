@@ -6,6 +6,7 @@ The evolution of social media platforms
 ### Thesis Statement
 ### Viewpoint Selection
 ## Historial Development
+The historical development of social media began with basic digital message boards and personal online journals. In the late 1990s and early 2000s, early networks started letting users create their own custom profiles and build lists of friends which changed how people communicate online. During this same era, the massive growth opf independent weblogs gave everyday people a simple voice on the internet which also changed how communities share information and leading to modern interactive platforms supported by tech programs like the Google News initiative.
 ### Timeline
 ### Key Figures
 ### Major Milestones
