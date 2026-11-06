@@ -6,30 +6,8 @@ The evolution of social media platforms
 ### Thesis Statement
 ### Viewpoint Selection
 ## Historial Development
-The historical development of social media began with basic digital message boards and personal online journals. In the late 1990s and early 2000s, early networks started letting users create their own custom profiles and build lists of friends which changed how people communicate online. During this same era, the massive growth opf independent weblogs gave everyday people a simple voice on the internet which also changed how communities share information and leading to modern interactive platforms supported by tech programs like the Google News initiative
+The historical development of social media began with basic digital message boards and personal online journals. In the late 1990s and early 2000s, early networks started letting users create their own custom profiles and build lists of friends which changed how people communicate online. During this same era, the massive growth opf independent weblogs gave everyday people a simple voice on the internet which also changed how communities share information and leading to modern interactive platforms supported by tech programs like the Google News initiative.
 ### Timeline
-2003-2005 Profile and Personalization Era
-MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customization and a platform for independent bands.
-The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking
-In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos.
-
-2006 - 2008 Change of Guard and Microblogging
-In March 2006, Twitter entered the scene with a 140 character limit and popularized real time microblogging and worldwide news delivery
-In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential
-In 2008, Facebook surpassed MySpace in monthly active users and offically claimed market dominance
-
-2010 - 2012
-In October 2010, Kevin Systrom and Mike Krieger launched Instagram as an IOS only app, which leveraged the upgraded canera if the iPhone 4 to focus fully on filtered photography and immediate liking mechanics
-In July 2011 , Evan Spiegel and Bobby Murphy launched Snapchat. They redefined social habits among younger people through disappearing photos and messages
-In April 2012, Facebook bought a fast growing Instragram for 1 billion dollars.
-
-2016 - Present
-In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. Tiktok disrupted traditonal social networks by using hyoer accurate content recommendation algorithm instead of a user's friend graph
-In 2020-2021, Youtube Shorts and Instagram Reels were introducted to compete with Tiktok's vertical video interface.
-Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 million dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users
-
-2023 - Present Artificial Intelligence Era 
-
 ### Key Figures
 ### Major Milestones
 ## Societal Viewpoint Analysis
@@ -55,8 +33,8 @@ Negative:
 # Politics
 How it is related:Although the social media in its largest is used for entertainment, it also serves as a useful tool in political side of many countires. The more developed and popular social mediaplatforms in general become, the more they are used in political sphere.
 Positive:
-1.Easier to share opinions:Many social media platforms have turned into fields of discussion of thoughts
-2.Promotion of viewpoints:
+1.Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts
+2.Promotion of viewpoints: Soxial media platforms make it easier to share  your opinions on politic topics or the other way around, recieve opinions and thoughts of other people on a certain political topic
 Negative:
 1.More disinformation: This point explains itself, it is an average thing for political oponents to post disinformation about eachohter, even bigger problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of weather it is truth or not
 2.
