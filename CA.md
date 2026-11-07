@@ -52,7 +52,7 @@ Negative:
 ## Business Viewpoint Analysis
 
 ### Defining the Business Viewpoint
-The business viewpoint looks at money, competition, and value. So they always focus on making money, how to compete with other companies, and how they can grow their business. When we look at social media, we all have the same question: how are they making money, though we use it for free? But actually, the answer is they are making money from people's time and attention, mostly by showing adverts. So the more you see their ads, the more they make money.
+The business viewpoint looks at money, competition, and value. So businesses always focus on making money, how to compete with other companies, and how they can grow their business. When we look at social media, we all have the same question: how are they making money, when we use it for free? But actually, the answer is they are making money from people's time and attention, mostly by showing adverts. So the more you see their ads, the more they make money.
 
 ### MySpace
 MySpace was one of the first big social media sites. In 2005, a company called News Corporation bought MySpace for $580 million (NPR, 2011).
@@ -85,6 +85,13 @@ Instead of only competing with new apps, Facebook bought them. In April 2012, Fa
 
 Positive:
 1. Facebook got rid of the competition that was growing. If Instagram had kept growing on its own, it could have taken most of the young users away from Facebook.
+2. Later, Instagram became one of Meta's most important ways to make money, and it helped Meta compete really well with new apps like TikTok and others (Yahoo Finance, 2025).
+
+Negative:
+1. $1 billion was actually a lot of money for a company with only 13 employees (NPR, 2012). From a business viewpoint, it was a big risk for Facebook, and it might not have been worth it.
+2. In 2018, the two people who made Instagram left Facebook because they did not agree with Mark Zuckerberg about how to run the app (MacRumors, 2018). This shows that when you buy a company, you can lose the people who made it successful.
+
+From a business viewpoint, buying a competitor can be a smart way to stay on top, because you have less competition and people keep using your apps. But it costs a lot of money, and you can lose the people who made the app good.
 
 
 
@@ -97,6 +104,9 @@ Positive:
 
 
 ### Connection to Module Concepts
+
+
+
 ## Ethical Reflections & Improvements
 ### Identified Ethical Issues
 #### Privacy Concerns
