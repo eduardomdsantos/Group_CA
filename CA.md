@@ -1,13 +1,46 @@
 # Evolution of Social Media Platforms
 ## Introduction
-The evolution of social media platforms
+The evolution of social media platforms impacted the world and still does in relation to its historical development, politics, ethics and the economy of the world
 ### Context
+The birth of social media in the early 2000s with the creation of Myspace a college project which took off and sparked a new age
 ### Significance
+The significance of it is the importance and the fact that social media platforms have drastically changed the world in terms of the economy, ethics and technological advancements which impact bussinesses and education
 ### Thesis Statement
 ### Viewpoint Selection
 ## Historial Development
 The historical development of social media began with basic digital message boards and personal online journals. In the late 1990s and early 2000s, early networks started letting users create their own custom profiles and build lists of friends which changed how people communicate online. During this same era, the massive growth opf independent weblogs gave everyday people a simple voice on the internet which also changed how communities share information and leading to modern interactive platforms supported by tech programs like the Google News initiative.
+2003-2004
+Chris DeWolfe, Tom Anderson and Jon Hart founded Myspace orgininally named 'Sitegist', On August 1st which started as a college project. Myspace allowed users to have their own personal pages which were highly customizable allowing users to edit almost every aspect of their page. In 2004, 'The Facebook' now known as Facebook launched and was founded by students in Harvard University. It allowed users to post photos of themselves and information about their lives. By the end of 2004, Facebook reached one million users but still trailed the leading social network which was Myspace which had five million users.
+
+2005-2006
+On February 14th, 2005, YouTube was registered. It was orgininally used as a video based dating website but struggled to attract users. The site became one of the largest video sharing websites when one of the founders Jawed Karim uploaded a video titled "Me at the Zoo" which was a 19 second clip of him infront of a elephant enclosure. It opened a limited beta and was attracting almost 30,000 visitors per day.
+On July 15th, 2006, a company named Odeo launched Twttr which was changed to Twitter and was a short messaging service for groups to the public. It was born as a side project from Odeo's main podcasting platform. It allowed users to share status updates with groups of friends by sending one text message to a single number.
+
+2010-2011
 ### Timeline
+### Timeline
+2003-2005 Profile and Personalization Era
+MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customization and a platform for independent bands.
+The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking
+In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos.
+
+2006 - 2008 Change of Guard and Microblogging
+In March 2006, Twitter entered the scene with a 140 character limit and popularized real time microblogging and worldwide news delivery
+In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential
+In 2008, Facebook surpassed MySpace in monthly active users and offically claimed market dominance
+
+2010 - 2012
+In October 2010, Kevin Systrom and Mike Krieger launched Instagram as an IOS only app, which leveraged the upgraded canera if the iPhone 4 to focus fully on filtered photography and immediate liking mechanics
+In July 2011 , Evan Spiegel and Bobby Murphy launched Snapchat. They redefined social habits among younger people through disappearing photos and messages
+In April 2012, Facebook bought a fast growing Instragram for 1 billion dollars.
+
+2016 - Present
+In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. Tiktok disrupted traditonal social networks by using hyoer accurate content recommendation algorithm instead of a user's friend graph
+In 2020-2021, Youtube Shorts and Instagram Reels were introducted to compete with Tiktok's vertical video interface.
+Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 million dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users
+
+2023 - Present Artificial Intelligence Era 
+
 ### Key Figures
 ### Major Milestones
 ## Societal Viewpoint Analysis
@@ -88,7 +121,11 @@ From a business viewpoint, buying a competitor can be a smart way to stay on top
 ### Connection to Module Concepts
 
 ## Ethical Reflections & Improvements
-### Critical Evaluations
+### Identified Ethical Issues
+#### Privacy Concerns
+#### Cyberbullying and Mental Health
+#### Social Media Misuse and Oversharing
+#### Data Sovereignty
 ### Solutions
 ## Conclusion
 ### Synthesis
