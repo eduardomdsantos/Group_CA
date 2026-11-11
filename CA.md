@@ -118,6 +118,17 @@ Negative:
 From a business viewpoint, buying a competitor can be a smart way to stay on top, because you have less competition and people keep using your apps. But it costs a lot of money, and you can lose the people who made the app good.
 
 ### TikTok
+TikTok belongs to ByteDance, a company from China. It became popular very quickly because of its short videos and its "For You" page, which shows each person videos and things they would actually like. Like Facebook, it is free to use and makes most of its money from ads, but it also earns money from live streams and online shopping.
+
+Positive:
+1. TikTok's ad revenue is growing very fast. In 2025, it generated about $33.1 billion in ad revenue (Revenue Memo, 2025). This shows that advertisers want to be where young people are because they spend so much time on their phones.
+2. It does not rely only on ads. People can buy gifts and send them to creators on live streams, and many creators make a lot of money from that. This brought in over $3 billion in 2025 (Revenue Memo, 2025).
+
+Negative:
+1. The US is TikTok's biggest market, so almost $12 billion in ad money was at risk when the US wanted to ban it (Search Engine Land, 2025).
+2. In the end, ByteDance had to give control of TikTok in the US to a new company owned mostly by American investors, and ByteDance kept only 19.9% (TheJournal.ie, 2026).
+
+From a business perspective, this shows that a new idea like short videos can beat older apps very quickly because people love them. But politics can be a big risk for a global business.
 
 ### Connection to Module Concepts
 
