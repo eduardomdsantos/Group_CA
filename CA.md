@@ -8,16 +8,6 @@ The significance of it is the importance and the fact that social media platform
 ### Thesis Statement
 ### Viewpoint Selection
 ## Historial Development
-The historical development of social media began with basic digital message boards and personal online journals. In the late 1990s and early 2000s, early networks started letting users create their own custom profiles and build lists of friends which changed how people communicate online. During this same era, the massive growth opf independent weblogs gave everyday people a simple voice on the internet which also changed how communities share information and leading to modern interactive platforms supported by tech programs like the Google News initiative.
-2003-2004
-Chris DeWolfe, Tom Anderson and Jon Hart founded Myspace orgininally named 'Sitegist', On August 1st which started as a college project. Myspace allowed users to have their own personal pages which were highly customizable allowing users to edit almost every aspect of their page. In 2004, 'The Facebook' now known as Facebook launched and was founded by students in Harvard University. It allowed users to post photos of themselves and information about their lives. By the end of 2004, Facebook reached one million users but still trailed the leading social network which was Myspace which had five million users.
-
-2005-2006
-On February 14th, 2005, YouTube was registered. It was orgininally used as a video based dating website but struggled to attract users. The site became one of the largest video sharing websites when one of the founders Jawed Karim uploaded a video titled "Me at the Zoo" which was a 19 second clip of him infront of a elephant enclosure. It opened a limited beta and was attracting almost 30,000 visitors per day.
-On July 15th, 2006, a company named Odeo launched Twttr which was changed to Twitter and was a short messaging service for groups to the public. It was born as a side project from Odeo's main podcasting platform. It allowed users to share status updates with groups of friends by sending one text message to a single number.
-
-2010-2011
-### Timeline
 ### Timeline
 2003-2005 Profile and Personalization Era
 MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customization and a platform for independent bands.
@@ -39,9 +29,18 @@ In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 20
 In 2020-2021, Youtube Shorts and Instagram Reels were introducted to compete with Tiktok's vertical video interface.
 Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 million dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users
 
-2023 - Present Artificial Intelligence Era 
+2023 - Present Artificial Intelligence Era
+Artificial Intelligance (AI) has changed social media through personalised recommendations, chatbots and targeted advertisement. Platforms that we have looked at already like Tiktok, Instagram and Facebook use AI to suggest content based on user's interests. However, AI has also increased concerns about privacy and fake information. Nowadays it still continues to shape how people communicate online. 
 
 ### Key Figures
+Tom Anderson (2003): Founded MySpace which was one of the first major social networking sites
+Mark Zuckerberg (2004): Founded Facebook which transformed online communication majorly
+Steve Chen (2005): Founded Youtube which changed how videos were shared
+Jack Dorsey (2006): Founded Twiiter. This introduced short public updates
+Kevin Systrom (2010): Founded Instagram which popularised photo sharing social media
+Evan Spiegel (2011): Founded Snapchat which intorduced disappearing messages
+Zhang Yiming (2012): Founded ByteDance (2012), the company behind TikTok
+Mark Zuckerberg (2023): Founded Threads, which expanded social media discussions
 ### Major Milestones
 ## Societal Viewpoint Analysis
 ### Definition of the societal point of view:
