@@ -69,12 +69,12 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 ## 3. Societal Viewpoint Analysis
 ### 3.1. Definition of the Societal Point of View:
 
-A societal viewpoint is a perspective of society or an average person on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, quality of life in communities and politics.
+A societal viewpoint is a perspective of society on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, quality of life in communities and politics.
 
 ### 3.2. The impact:
 #### 3.2.1. Education:
 
-How it is related: As the social media became more accessible and widely used, a lot of people from the education sphere have adapted the social media platforms for various reasons, the impact of that adaptation is shown below: 
+As social media has bocame more integrated into education it has brought its drawbacks and benefits, the impact of that adaptation is shown below: 
 
 ##### Positive: 
 
@@ -88,12 +88,12 @@ How it is related: As the social media became more accessible and widely used, a
 
 #### 3.2.2. Communities
 
-How it is related: The development of social media has led to huge changes in how people communicate and interact with each other on daily basis, examples of these changes are shown below:
+The development of social media has led to huge changes in how people communicate and interact with each other on daily basis, examples of these changes are shown below:
 
 ##### Positive:
 
 - Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of these virtual connections has grown by about 2.7 % since 2025 (Pew Research Center, 2024).
-- Worldwide communication: Obviously, the main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with minimal delay, as if they were standing right beside each other.
+- Worldwide communication: The main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with little to no delay.
 
 ##### Negative:
 
@@ -102,17 +102,17 @@ How it is related: The development of social media has led to huge changes in ho
 
 #### 3.2.3. Politics
 
-How it is related: Although the social media in its largest is used for entertainment, it also serves as a useful tool in political side of many countries. The more developed and popular social media platforms in general become, the more they are used in political sphere.
+Although the social media in its largest is used for entertainment, it also serves as a useful tool in political side of many countries. The more developed and popular social media platforms in general become, the more they are used in political sphere.
 
 ##### Positive:
 
-- Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great opportunity for all sorts of discussions, especially on sharp and important topics such as politics (Pew Research Center, 2025).
-- Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions and thoughts of other people on a certain political topic.
+- Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great opportunity for all sorts of discussions, especially on important topics such as politics (Pew Research Center, 2025).
+- Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions of other people on a certain political topic.
 
 ##### Negative:
 
-- More disinformation: This point explains itself, it is an average thing for political opponents to post disinformation about each other, even bigger problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.
-- Affected decision-making: Social media platforms like Facebook, Instagram and Twitter can contribute to creation of so called echo chambers. An echo chamber is an environment in which one article, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (PNAS, 2021).
+- More disinformation: It is an average thing for political opponents to post disinformation about each other, another problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.
+- Affected decision-making: Social media platforms can contribute to creation of so called echo chambers. An echo chamber is an environment in which one opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (PNAS, 2021).
 
 ### 3.3. Connection to module concepts
 The main takeaway from this case study is how social media can affect society in both negative and positive ways, which easily brings us to ethical considerations
