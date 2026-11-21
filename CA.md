@@ -58,12 +58,12 @@ How it is related: As the social media became more accessible and widely used, a
 
 1. Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, tiktok and snapchat 
 
-2. Information: It became much easier for schools and universities to keep students updated on news and important information vie the "official school/university account" on social media platforms like instagram, where they can post updates on everything that is going on within the institution, rather than having to send out the messages separately. This also helps shools deliver the important information during the weekends, instead of having to wait for students to show up to school. 
+2. Information: It became much easier for students to find information by themselves and study independently(Organization for Economic Co-operation and Development, 2026)
 ###### Negative: 
 
-1. Distraction: It has become a common issue that social media platforms, especially the ones that offer a short video format or FYP (For you page), distract students from their work, weather it is at home, when they prefer to spend their evening scrolling through those videos or even in class, where they choose social media and entertainment over a lecture or a class 
+1. Distraction: It has become a common issue that social media platfroms distract students from thair work, weather it is at home or in class where they choose social media and entertainment over a lecture or a class (Organization for Economic Co-operation and Development, 2026)
 
-2. Focus: The same format of short videos also strongly affects students ability to focus on long texts or lectures. According to ("Frontiers of neuro science", research of 2024), there is a connection between long exposure to the format of short viedos that don't require concentration and future problems with focusing on long mundaine tasks. 
+2. Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundaine tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal regian" (Frontiers of Neuro Science, 2024).
 
 #### 3.1.2. Communities
 
@@ -71,30 +71,28 @@ How it is related: The development of social media has led to huge changes in ho
 
 ##### Positive:
 
-1. Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of this virtual connections has grown by about 2.7 % since 2025. It might not seem like a lot but in reality it's about 150 millin people in just one year
+1. Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of this virtual connections has grown by about 2.7 % since 2025.
 
 2. Worldwide communication: Obviously, the main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with minimal delay, as if they were standing right beside each other
 
 ##### Negative:
 
-1. Social isolation: Social media makes communication easier, but excessive use of it can cause loneliness and lead to social isolation. A research published by PubMedfound a link between excesive social media use and higher levels of loneliness.
+1. Social isolation: Social media makes communication easier, but excessive use of it can cause loneliness and lead to social isolation. "Problematic social media use shows a moderate and conistent association with greater loneliness" (Organisation for Wconomic Co-operation and Development, 2026).
 
-2. Mental health strain: As mentioned before, the development of social media has lead to easier communications and connections, which also means it has lead to easier spread of missinformaation and bullying. "worldmetrics.com" states that the cyberbullying rate has increased by 28% in the last 5 years and it doesn't seem like the situation is going to get any better any time soon.
-
+2. Mental health strain: As mentioned before, the development of social media has lead to easier communications and connections, which also means it has lead to easier spread of bullying. WHO states that around 1 in 6 teenagers have experienced cyberbullying (World Health Organisation, 2024).
 #### 3.1.3. Politics
 
 How it is related: Although the social media in its largest is used for entertainment, it also serves as a useful tool in political side of many countries. The more developed and popular social media platforms in general become, the more they are used in political sphere.
 
 ##### Positive:
-1. Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet andd interract create a great apportunity for all sorts of discussions, especialy on sharp and important topics such as politics
+1. Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great apportunity for all sorts of discussions, especially on sharp and important topics such as politics
 
-2. Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions and thoughts of other people on a certain political topic
-
+2. Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions and thoughts of other people on a certain political topic. (Pew Research Center, 2025).
 ##### Negative:
 
 1. More disinformation: This point explains itself, it is an average thing for political opponents to post disinformation about each ohter, even bigger problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of weather it is truth or not
 
-2. Affected decision-makeing: A research done by "Proceedings of NAtional Academy of Sciences", published on pnas.org states that social media platfroms like facebook, instagram and twitter can contribute to creatin of so calle echo chambers. An echo chamber is an environment in which one aertile, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion.
+2. Affected decision-makeing: Social media platfroms like facebook, instagram and twitter can contribute to creatin of so calle echo chambers. An echo chamber is an environment in which one aertile, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (Proceeding of the NAtional Academy of Sciences, 2021).
 
 
 ## 4. Business Viewpoint Analysis
