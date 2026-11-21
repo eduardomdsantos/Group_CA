@@ -68,10 +68,12 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 - Artificial intelligence is now used to recommend content, personalise feeds and help users create digital content.
 ## 3. Societal Viewpoint Analysis
 ### 3.1. Definition of the Societal Point of View:
+
 A societal viewpoint is a perspective of society or an average person on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, quality of life in communities and politics.
 
 ### 3.2. The impact:
 #### 3.2.1. Education:
+
 How it is related: As the social media became more accessible and widely used, a lot of people from the education sphere have adapted the social media platforms for various reasons, the impact of that adaptation is shown below: 
 
 ##### Positive: 
@@ -103,8 +105,10 @@ How it is related: The development of social media has led to huge changes in ho
 How it is related: Although the social media in its largest is used for entertainment, it also serves as a useful tool in political side of many countries. The more developed and popular social media platforms in general become, the more they are used in political sphere.
 
 ##### Positive:
+
 - Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great opportunity for all sorts of discussions, especially on sharp and important topics such as politics (Pew Research Center, 2025).
 - Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions and thoughts of other people on a certain political topic.
+
 ##### Negative:
 
 - More disinformation: This point explains itself, it is an average thing for political opponents to post disinformation about each other, even bigger problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.
