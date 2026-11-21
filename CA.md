@@ -14,6 +14,7 @@ The growth of social media from MySpace to TikTok has been driven by business mo
 This case study looks at the evolution of social media from two perspectives. The societal viewpoint takes the perspective of an everyday user and looks at how these platforms affect education, local and online communities, and politics. The business viewpoint looks at revenue, competition, and company value across MySpace, Facebook, Instagram, and TikTok. Combining both viewpoints makes sense because the same business decisions that generate profit, such as targeted ads, data tracking, algorithmic feeds, and buying out rivals, are also what cause the biggest social impacts. Finally, the ethical reflection brings both sides together using a stakeholder approach (Cho et al., 2024).
 
 ## 2. Historical Development
+Social Media has developed significantly since the early 2000s. It has changed how people communicate, share content and use the internet
 ### 2.1. Timeline
 #### 2003-2005: Profile and Personalization Era
 MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customisation and a platform for independent brands.
@@ -57,7 +58,14 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 - Founded Threads, which expanded social media discussions.
 
 ### 2.3. Major Milestones
-
+#### 1. Early Social Networking (2003-2006)
+- Websites like MySpace and Facebook made it easier for people to create profiles, connect with friends and communicate with people from across the globe.
+#### 2. Mobile Social Media (2007-2012)
+- Smartphones made social media accessible anywhere, and allowed people to share photos and messages and updates on the go.
+#### 4. Rise of Visual Content (2013-2018)
+- Photos, videos and live streaming became more popular. Instagram and Snapchat helped change how people share content
+#### 5. AI and Modern Social Media (2022-Present)
+- Artificial intelligence is now used to recommend content, personalise feeds and help users create digital content.
 ## 3. Societal Viewpoint Analysis
 ### 3.1. Definition of the Societal Point of View:
 A societal viewpoint is a perspective of society or an average person on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, quality of life in communities and politics.
