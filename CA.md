@@ -16,24 +16,24 @@ This case study looks at the evolution of social media from two perspectives. Th
 ## 2. Historical Development
 ### 2.1. Timeline
 #### 2003-2005: Profile and Personalization Era
-MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customization and a platform for independent bands.
-The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking
+MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customization and a platform for independent brands.
+The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking.
 In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos.
 
 #### 2006 - 2008: Change of Guard and Microblogging
-In March 2006, Twitter entered the scene with a 140 character limit and popularized real time microblogging and worldwide news delivery
-In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential
-In 2008, Facebook surpassed MySpace in monthly active users and offically claimed market dominance
+In March 2006, Twitter entered the scene with a 140 character limit and popularized real time microblogging and worldwide news delivery.
+In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential.
+In 2008, Facebook surpassed MySpace in monthly active users and officially claimed market dominance.
 
 #### 2010 - 2012
-In October 2010, Kevin Systrom and Mike Krieger launched Instagram as an IOS only app, which leveraged the upgraded camera if the iPhone 4 to focus fully on filtered photography and immediate liking mechanics
-In July 2011 , Evan Spiegel and Bobby Murphy launched SnapChat. They redefined social habits among younger people through disappearing photos and messages
+In October 2010, Kevin Systrom and Mike Krieger launched Instagram as an IOS only app, which leveraged the upgraded camera of the iPhone 4 to focus fully on filtered photography and immediate liking mechanics.
+In July 2011 , Evan Spiegel and Bobby Murphy launched SnapChat. They redefined social habits among younger people through disappearing photos and messages.
 In April 2012, Facebook bought a fast growing Instagram for 1 billion dollars.
 
 #### 2016 - Present
 In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. Tiktok disrupted traditional social networks by using hyper accurate content recommendation algorithm instead of a user's friend graph
 In 2020-2021, YouTube Shorts and Instagram Reels were introduced to compete with Tiktok's vertical video interface.
-Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 billion dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users
+Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 billion dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users.
 
 #### 2023 - Present: Artificial Intelligence Era
 Artificial Intelligence (AI) has changed social media through personalised recommendations, chatbots and targeted advertisement. Platforms that we have looked at already like Tiktok, Instagram and Facebook use AI to suggest content based on user's interests. However, AI has also increased concerns about privacy and fake information. Nowadays it still continues to shape how people communicate online. 
@@ -50,7 +50,7 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 #### Kevin Systrom (2010):
 - Founded Instagram which popularised photo sharing social media.
 #### Evan Spiegel (2011):
-- Founded Snapchat which introduced disappearing messages.
+- Founded SnapChat which introduced disappearing messages.
 #### Zhang Yiming (2012):
 - Founded ByteDance (2012), the company behind TikTok.
 #### Mark Zuckerberg (2023):
@@ -62,8 +62,8 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 ### 3.1. Definition of the Societal Point of View:
 A societal viewpoint is a perspective of society or an average person on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, quality of life in communities and politics.
 
-### 3.1. The impact:
-#### 3.1.1. Education:
+### 3.2. The impact:
+#### 3.2.1. Education:
 How it is related: As the social media became more accessible and widely used, a lot of people from the education sphere have adapted the social media platforms for various reasons, the impact of that adaptation is shown below: 
 
 ##### Positive: 
@@ -73,36 +73,34 @@ How it is related: As the social media became more accessible and widely used, a
 
 ##### Negative: 
 
-- Distraction: It has become a common issue that social media platforms distract students from thair work, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
+- Distraction: It has become a common issue that social media platforms distract students from their work, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
 - Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Yan et al., 2024).
 
-#### 3.1.2. Communities
+#### 3.2.2. Communities
 
 How it is related: The development of social media has led to huge changes in how people communicate and interact with each other on daily basis, examples of these changes are shown below:
 
 ##### Positive:
 
-1. Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of this virtual connections has grown by about 2.7 % since 2025 (Pew Research Center, 2024).
-
-2. Worldwide communication: Obviously, the main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with minimal delay, as if they were standing right beside each other
+- Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of this virtual connections has grown by about 2.7 % since 2025 (Pew Research Center, 2024).
+- Worldwide communication: Obviously, the main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with minimal delay, as if they were standing right beside each other
 
 ##### Negative:
 
 - Social isolation: Social media makes communication easier, but excessive use of it can cause loneliness and lead to social isolation. "Problematic social media use shows a moderate and consistent association with greater loneliness" (OECD, 2026).
 - Mental health strain: As mentioned before, the development of social media has lead to easier communications and connections, which also means it has lead to easier spread of bullying. WHO states that around 1 in 6 teenagers have experienced cyberbullying (WHO, 2024).
 
-#### 3.1.3. Politics
+#### 3.2.3. Politics
 
 How it is related: Although the social media in its largest is used for entertainment, it also serves as a useful tool in political side of many countries. The more developed and popular social media platforms in general become, the more they are used in political sphere.
 
 ##### Positive:
-1. Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great apportunity for all sorts of discussions, especially on sharp and important topics such as politics (Pew Research Center, 2025).
-
-2. Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions and thoughts of other people on a certain political topic.
+- Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great opportunity for all sorts of discussions, especially on sharp and important topics such as politics (Pew Research Center, 2025).
+- Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions and thoughts of other people on a certain political topic.
 ##### Negative:
 
 - More disinformation: This point explains itself, it is an average thing for political opponents to post disinformation about each other, even bigger problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.
-- Affected decision-makeing: Social media platfroms like Facebook, Instagram and Twitter can contribute to creation of so called echo chambers. An echo chamber is an environment in which one article, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (PNAS, 2021).
+- Affected decision-making: Social media platforms like Facebook, Instagram and Twitter can contribute to creation of so called echo chambers. An echo chamber is an environment in which one article, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (PNAS, 2021).
 
 
 ## 4. Business Viewpoint Analysis
@@ -180,7 +178,7 @@ Because users do not pay to use social media, advertisers are the real customers
 Users share personal details like their age, location, and interests, which platforms use to target ads, a process that AI personalisation has made much more precise. TikTok's 2026 US restructuring, which moved American user data and the recommendation algorithm into a joint venture hosted on Oracle's US cloud servers, shows that data control has become a major political and security issue (Shepardson, 2026). Simply having users click "agree" at sign-up is a weak justification for tracking them continuously over time.
 
 #### 5.1.3. Information and Harm
-An analysis of over 100 million posts found that users on Facebook and Twitter mostly interact with sources they already agree with, which creates echo chambers (Cinelli et al., 2021). At the same time, a WHO/Europe report found that 15% of adolescents experienced cyberbullying in 2022, marking an increase for both boys and girls since 2018 (WHO Regional Office for Europe, 2024).
+An analysis of over 100 million posts found that users on Facebook and Twitter mostly interact with sources they already agree with, which creates echo chambers (Cinelli et al., 2021). At the same time, a WHO/Europe report found that 15% of adolescents experienced cyberbullying in 2022, marking an increase for both boys and girls since 2018 (WHO, 2024).
 
 #### 5.1.4. Competition and Accountability
 When Facebook bought Instagram, it removed a fast-growing competitor, and Instagram's founders eventually left in 2018 following disagreements over how much independence the app should keep (Constine, 2018). Buying rivals helps protect a company's market share, but it also puts control over public communication into the hands of just a few firms. Furthermore, relying on advertising for roughly 98% of total revenue makes Meta's business model vulnerable if ad spending drops.
@@ -238,7 +236,7 @@ Still, the benefits of social media like staying in touch across long distances,
 From MySpace to TikTok, every major social media platform has succeeded by finding better ways to capture user attention, often passing the negative side effects on to users and society until competitors or regulators stepped in.
 
 ### 6.1. Synthesis
-While the main product changed in each era, from customisable profile pages and friend networks to photo feeds and short algorithmic videos, the core business model stayed the same: free access paid for by ads. Looking at the business side shows why this setup can be risky. MySpace dropped in value from $580 million to $35 million (CBS Boston, 2011), Meta relies on ads for about 98% of its income, and even though TikTok's 2025 ad revenue was reached $33.1 billion (Revenue Memo, 2025), political pressure forced ByteDance to reduce its stake in its US operations to 19.9% (Shepardson, 2026). Looking at the societal side shows the trade-off: these platforms help people stay connected, share school updates, and discuss politics, but they also fuel distraction, loneliness, cyberbullying, and echo chambers. Both perspectives connect directly to the module's main concepts: users are the product rather than the paying customers, user data is a company's most valuable asset, and platforms that fail to adapt, like MySpace, quickly lose their audience.
+While the main product changed in each era, from customisable profile pages and friend networks to photo feeds and short algorithmic videos, the core business model stayed the same: free access paid for by ads. Looking at the business side shows why this setup can be risky. MySpace dropped in value from $580 million to $35 million (CBS Boston, 2011), Meta relies on ads for about 98% of its income, and even though TikTok's 2025 ad revenue reached $33.1 billion (Revenue Memo, 2025), political pressure forced ByteDance to reduce its stake in its US operations to 19.9% (Shepardson, 2026). Looking at the societal side shows the trade-off: these platforms help people stay connected, share school updates, and discuss politics, but they also fuel distraction, loneliness, cyberbullying, and echo chambers. Both perspectives connect directly to the module's main concepts: users are the product rather than the paying customers, user data is a company's most valuable asset, and platforms that fail to adapt, like MySpace, quickly lose their audience.
 
 ### 6.2. Broader Implications
 For social media companies, long-term competitive advantage is shifting from flashy new features to user trust, meaning that ethical design and early compliance with regulations are smart business moves. For governments, major platforms are increasingly being treated like essential public infrastructure, as seen in new age restrictions and TikTok's US data rules. As AI becomes even more common online, the same conflict between engagement and well-being will keep showing up unless companies design around it from the start. Finally, this case study is limited by its reliance on secondary sources, company reports, and correlational studies. Ultimately, the history of social media from MySpace to TikTok shows that the platforms built to last will be the ones that earn user attention responsibly.
