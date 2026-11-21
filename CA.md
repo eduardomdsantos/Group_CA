@@ -102,6 +102,16 @@ How it is related: Although the social media in its largest is used for entertai
 - More disinformation: This point explains itself, it is an average thing for political opponents to post disinformation about each other, even bigger problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.
 - Affected decision-making: Social media platforms like Facebook, Instagram and Twitter can contribute to creation of so called echo chambers. An echo chamber is an environment in which one article, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (PNAS, 2021).
 
+### 3.3. Connection to module concepts
+The main takeaway from this case study is how social media can affect society in both negative and positive ways
+
+In every part of the societal view point, the development of social media has brough both advantages and disadvantages. In general, social media in it's largest is nither good nor bad, but it can be used for both.
+
+Such things as bullying and missinformation have existed long before internet has been created, and the development of social media did't create those things, but instead has contributed to how easily they are spread now
+
+On the other hand, the same thing can be said baout the way it has made socialising and obtaining information much easier.
+
+To summarise, the development of social media didn't create newe problems or apportunities, it just enlarged already existing ones.
 
 ## 4. Business Viewpoint Analysis
 ### 4.1. Defining the Business Viewpoint
