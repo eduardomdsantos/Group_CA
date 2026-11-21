@@ -82,7 +82,7 @@ How it is related: The development of social media has led to huge changes in ho
 
 ##### Positive:
 
-1. Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of this virtual connections has grown by about 2.7 % since 2025.
+1. Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of this virtual connections has grown by about 2.7 % since 2025 (Pew Research Center, 2024).
 
 2. Worldwide communication: Obviously, the main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with minimal delay, as if they were standing right beside each other
 
@@ -96,9 +96,9 @@ How it is related: The development of social media has led to huge changes in ho
 How it is related: Although the social media in its largest is used for entertainment, it also serves as a useful tool in political side of many countries. The more developed and popular social media platforms in general become, the more they are used in political sphere.
 
 ##### Positive:
-1. Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great apportunity for all sorts of discussions, especially on sharp and important topics such as politics
+1. Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great apportunity for all sorts of discussions, especially on sharp and important topics such as politics (Pew Research Center, 2025).
 
-2. Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions and thoughts of other people on a certain political topic. (Pew Research Center, 2025).
+2. Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions and thoughts of other people on a certain political topic.
 ##### Negative:
 
 1. More disinformation: This point explains itself, it is an average thing for political opponents to post disinformation about each ohter, even bigger problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of weather it is truth or not
