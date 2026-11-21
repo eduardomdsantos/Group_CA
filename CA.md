@@ -112,7 +112,7 @@ The business viewpoint looks at money, competition, and value. So businesses alw
 ### 4.2. MySpace
 MySpace was one of the first big social media sites. In 2005, a company called News Corporation bought MySpace for $580 million (NPR, 2011).
 
-Positive:
+#### Positive:
 - It shows that social media is worth a lot of money, because a big company paid $580 million for it (NPR, 2011).
 - At its peak, it had 70 million visitors per month (NPR, 2011).
 
@@ -194,6 +194,7 @@ Still, the benefits of social media like staying in touch across long distances,
 - Default time limits.
 - No infinite scroll for under-18s.
 - No likes and comments features for under-18s.
+
 ##### Likely trade-off:
 - Lower ad impressions.
 - Lower user impressions.
@@ -203,6 +204,7 @@ Still, the benefits of social media like staying in touch across long distances,
 - Data storage minimisation.
 - Opt-in option for sensitive targeting.
 - Privacy preserving age checks.
+
 ##### Likely trade-off:
 - Less precise targeting.
 
@@ -210,6 +212,7 @@ Still, the benefits of social media like staying in touch across long distances,
 ##### Improvement:
 - AI-content labels.
 - Independent audits of recommender algorithm systems.
+
 ##### Likely trade-off:
 - Moderation cost.
 
@@ -218,6 +221,7 @@ Still, the benefits of social media like staying in touch across long distances,
 - Subscriptions.
 - Shopping.
 - Creator tools.
+
 ##### Likely trade-off:
 - Slower growth at first.
 
@@ -225,6 +229,7 @@ Still, the benefits of social media like staying in touch across long distances,
 ##### Improvement:
 - Board-level responsibility for well-being.
 - Public transparency reports.
+
 ##### Likely trade-off:
 - Reputational exposure.
 - Disclosure exposure.
