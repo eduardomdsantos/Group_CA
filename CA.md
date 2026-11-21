@@ -46,49 +46,42 @@ Mark Zuckerberg (2023): Founded Threads, which expanded social media discussions
 ### Definition of the societal point of view:
 A societal viewpoint is a perspective of society or an average person on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, quality of life in communities and politics.
 
-### The impact:
+## The impact:
 
-## Education:
+### Education:
 How it is related: As the social media became more accessible and widely used, a lot of people from the education sphere have adapted the social media platforms for various reasons, the impact of that adaptation is shown below: 
 
 # Positive: 
 1. Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, tiktok and snapchat 
-
 2. Information: It became much easier for students to find information by themselves and study indepnedatly. "YouTube hosts extensive instructional video content that can support education or aid in completing complex tasks" (Organization for Economic Co-operation and Development, 2026).
 
 # Negative: 
 1. Distraction: It has become a common issue that social media platforms, distract students from their work, weather it is at home or even in class, where they choose social media and entertainment over a lecture or a class (Organization for Economic Co-operation and Development, 2026).
-
 2. Focus: There is a connection between long exposure to the format of short vidos that don't require concentration and future problems with focusing on long mundaine tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Frontiers of Neuro Science, 2024).
 
-## Communities
+### Communities
 
 How it is related: The development of social media has led to huge changes in how people communicate and interact with each other on daily basis, examples of these changes are shown below:
 
 # Positive:
 1. Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of this virtual connections has grown by about 2.7 % since 2025.
-
 2. Worldwide communication: Obviously, the main point of social media is to allow people to connect or stay in touch regardless of the distance between them. Social media allows two people that live in completely different sides of the world communicate with minimal delay, as if they were standing right beside each other.
 
 # Negative:
 1. Social isolation: Social media makes communication easier, but excessive use of it can cause loneliness and lead to social isolation. "Problematic social media use shows a moderate and consistent association with greater loneliness" (Organization for Economic Co-operation and Development, 2026).
-
 2. Mental health strain: As mentioned before, the development of social media has lead to easier communications and connections, which also means it has lead to easier spread of bullying. WHO states that around 1 in 6 teenagers have experienced cyberbullying (World Health Organization, 2024).
 
-# Politics
+### Politics
 
 How it is related: Although the social media in its largest is used for entertainment, it also serves as a useful tool in political side of many countries. The more developed and popular social media platforms in general become, the more they are used in political sphere 
 
 # Positive:
 1. Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great opportunity for all sorts of discussions, especialy on sharp and important topics such as politics (Pew Research Center, 2025).
-
 2. Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions and thoughts of other people on a certain political topic. "Half of U.S. adults social media users say social media is very pr somewhat important for them when it comes to finding others who share their view abut important issues" (Pew Research Center, 2025).
 
 # Negative:
 1. More disinformation: This point explains itself, it is an average thing for political opponents to post disinformation about each other, even bigger problem is that people will very rarely double check the information they consume. Anything they see will usually be accepted regardless of weather it is truth or not
-
 2. Affected decision-makeing: Social media platforms like facebook, instagram and twitter can contribute to creation of so called echo chambers. An echo chamber is an environment in which one article, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion (Proceedings of the National Academy of Sciences, 2021)
-
 
 ## Business Viewpoint Analysis
 
