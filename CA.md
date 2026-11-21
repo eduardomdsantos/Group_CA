@@ -71,7 +71,7 @@ How it is related: As the social media became more accessible and widely used, a
 - Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, TikTok and SnapChat.
 - Information: It became much easier for students to find information by themselves and study independently (OECD, 2026).
 
-###### Negative: 
+##### Negative: 
 
 - Distraction: It has become a common issue that social media platforms distract students from thair work, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
 - Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Yan et al., 2024).
