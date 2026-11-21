@@ -103,7 +103,7 @@ How it is related: Although the social media in its largest is used for entertai
 - Affected decision-making: Social media platforms like Facebook, Instagram and Twitter can contribute to creation of so called echo chambers. An echo chamber is an environment in which one article, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (PNAS, 2021).
 
 ### 3.3. Connection to module concepts
-The main takeaway from this case study is how social media can affect society in both negative and positive ways
+The main takeaway from this case study is how social media can affect society in both negative and positive ways, which easily brings us to ethical considerations
 
 In every part of the societal view point, the development of social media has brough both advantages and disadvantages. In general, social media in it's largest is nither good nor bad, but it can be used for both.
 
