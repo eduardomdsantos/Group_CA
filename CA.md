@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 ### 1.1. Context
-Social media has gone through three main phases, and each phase changed what the core product was. In the first phase, profile-based networking, platforms like MySpace (2003) and Facebook (2004) were built around a user's personal page and friend list. News Corporation bought MySpace for $580 million in 2005, only to sell it for $35 million six years later after it lost its audience (CBS Boston, 2011). Facebook then introduced the news feed and the "Like" button and grew further by buying out competitors like Instagram for around $1 billion in 2012 (Meta, 2012). Later, TikTok (2017) shifted away from friend lists entirely by using a recommendation algorithm to show content based on a user's interests, a trend that artificial intelligence has pushed even further since 2023. Despite all these changes, the underlying business model has stayed the same: the platforms are free to use and make money through advertising.
+Social media has gone through three main phases, and each phase changed what the core product was. In the first phase, profile-based networking, platforms like MySpace (2003) and Facebook (2004) were built around a user's personal page and friend list. News Corporation bought MySpace for $580 million in 2005, only to sell it for $35 million six years later after it lost its audience (CBS Boston, 2011). Facebook then introduced the news feed and the "Like" button and grew further by buying out competitors like Instagram for around $1 billion in 2012 (Meta, 2012). Later, TikTok (2017) shifted away from friend lists entirely by using a recommendation algorithm to show content based on a users' interests, a trend that artificial intelligence has pushed even further since 2023. Despite all these changes, the underlying business model has stayed the same: the platforms are free to use and make money through advertising.
 
 ### 1.2. Significance
 These platforms now influence education, everyday community life, and politics for billions of users. According to DataReportal, there were 5.81 billion social media user identities worldwide as of October 2026 (Kemp, 2026). Because these platforms have become so large, managing and regulating them has turned into a major business and policy issue. For example, Australia's under-16 social media ban has been in effect since December 2025 (Australian Government, n.d.), the European Commission proposed the EU KIDS Act in September 2026 to set the minimum age for opening an account at 15 (EEAS, 2026), and TikTok's US operations were restructured into a majority American-owned joint venture in January 2026 (Shepardson, 2026).
@@ -11,7 +11,7 @@ These platforms now influence education, everyday community life, and politics f
 The growth of social media from MySpace to TikTok has been driven by business models that profit from capturing user attention and collecting data. While this has created real benefits for society, such as easier communication, wider access to information, and open political debate, it has also led to serious problems like distraction, loneliness, and disinformation. Going forward, long-term success will belong to platforms that balance profit with user well-being by building ethical practices into their design and strategy.
 
 ### 1.4. Viewpoint Selection
-This case study looks at the evolution of social media from two perspectives. The societal viewpoint takes the perspective of an everyday user and looks at how these platforms affect education, local and online communities, and politics. The business viewpoint looks at revenue, competition, and company value across MySpace, Facebook, Instagram, and TikTok. Combining both viewpoints makes sense because the same business decisions that generate profit—such as targeted ads, data tracking, algorithmic feeds, and buying out rivals—are also what cause the biggest social impacts. Finally, the ethical reflection brings both sides together using a stakeholder approach (Cho et al., 2024).
+This case study looks at the evolution of social media from two perspectives. The societal viewpoint takes the perspective of an everyday user and looks at how these platforms affect education, local and online communities, and politics. The business viewpoint looks at revenue, competition, and company value across MySpace, Facebook, Instagram, and TikTok. Combining both viewpoints makes sense because the same business decisions that generate profit, such as targeted ads, data tracking, algorithmic feeds, and buying out rivals, are also what cause the biggest social impacts. Finally, the ethical reflection brings both sides together using a stakeholder approach (Cho et al., 2024).
 
 ## 2. Historical Development
 ### 2.1. Timeline
@@ -31,7 +31,7 @@ In July 2011 , Evan Spiegel and Bobby Murphy launched SnapChat. They redefined s
 In April 2012, Facebook bought a fast growing Instagram for 1 billion dollars.
 
 #### 2016 - Present
-In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. Tiktok disrupted traditional social networks by using hyper accurate content recommendation algorithm instead of a user's friend graph
+In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. Tiktok disrupted traditional social networks by using hyper accurate content recommendation algorithm instead of a user's friend graph.
 In 2020-2021, YouTube Shorts and Instagram Reels were introduced to compete with Tiktok's vertical video interface.
 Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 billion dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users.
 
@@ -83,12 +83,12 @@ How it is related: The development of social media has led to huge changes in ho
 ##### Positive:
 
 - Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of this virtual connections has grown by about 2.7 % since 2025 (Pew Research Center, 2024).
-- Worldwide communication: Obviously, the main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with minimal delay, as if they were standing right beside each other
+- Worldwide communication: Obviously, the main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with minimal delay, as if they were standing right beside each other.
 
 ##### Negative:
 
 - Social isolation: Social media makes communication easier, but excessive use of it can cause loneliness and lead to social isolation. "Problematic social media use shows a moderate and consistent association with greater loneliness" (OECD, 2026).
-- Mental health strain: As mentioned before, the development of social media has lead to easier communications and connections, which also means it has lead to easier spread of bullying. WHO states that around 1 in 6 teenagers have experienced cyberbullying (WHO, 2024).
+- Mental health strain: As mentioned before, the development of social media has led to easier communications and connections, which also means it has led to easier spread of bullying. WHO states that around 1 in 6 teenagers have experienced cyberbullying (WHO, 2024).
 
 #### 3.2.3. Politics
 
@@ -172,7 +172,7 @@ Finally, it shows that companies must continually learn and adapt to new technol
 ## 5. Ethical Reflections & Improvements
 ### 5.1. Identified Ethical Issues
 #### 5.1.1. Attention as a Product
-Because users do not pay to use social media, advertisers are the real customers, and platform revenue depends on keeping people scrolling for as long as possible. For instance, Meta earned $160.6 billion of its $164.5 billion total revenue in 2024 from advertising (Meta Platforms, 2025). This creates a conflict between making money and protecting user well-being. A small EEG study found that people with stronger signs of short-video addiction showed weaker cognitive control when dealing with distractions (Yan et al., 2024), while a meta-analysis linked internet-use-disorder symptoms to higher levels of loneliness (Mestre-Bach et al., 2025). Although these studies show a correlation rather than direct proof of harm, they highlight real risks for heavy users.
+Because users do not pay to use social media, advertisers are the real customers, and platform revenue depends on keeping people scrolling for as long as possible. For instance, Meta earned $160.6 billion of its $164.5 billion total revenue in 2024 from advertising (Meta, 2025). This creates a conflict between making money and protecting user well-being. A small EEG study found that people with stronger signs of short-video addiction showed weaker cognitive control when dealing with distractions (Yan et al., 2024), while a meta-analysis linked internet-use-disorder symptoms to higher levels of loneliness (Mestre-Bach et al., 2025). Although these studies show a correlation rather than direct proof of harm, they highlight real risks for heavy users.
 
 #### 5.1.2. Data and Privacy
 Users share personal details like their age, location, and interests, which platforms use to target ads, a process that AI personalisation has made much more precise. TikTok's 2026 US restructuring, which moved American user data and the recommendation algorithm into a joint venture hosted on Oracle's US cloud servers, shows that data control has become a major political and security issue (Shepardson, 2026). Simply having users click "agree" at sign-up is a weak justification for tracking them continuously over time.
