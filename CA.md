@@ -161,13 +161,13 @@ From a business perspective, this shows that a new idea like short videos can be
 ### 4.6. Connection to Module Concepts
 This case study links to many key ideas from the module.
 
-First, it shows how computing business models have changed. Social media apps are free to use, but they make a lot of money by selling users' attention to advertisers. This means the users are not really the customers. Advertisers are the customers because they are the ones who pay.
+One major takeaway is how computing business models have changed. Social media apps are free to use, but they make a lot of money by selling users' attention to advertisers. This means the users are not really the customers. Advertisers are the customers because they are the ones who pay.
 
-Second, it shows that data is one of the most valuable business assets today. Apps like Facebook and TikTok collect information about what people like, so they can show them the right ads, which leads to more people buying from those ads.
+Along with attention, user data is one of the most valuable business assets today. Apps like Facebook and TikTok collect information about what people like, so they can show them the right ads, which leads to more people buying from those ads.
 
-Third, it shows the evolution of computing. Social media moved from websites on a computer, like MySpace, to mobile apps like Instagram and TikTok. These apps run on massive cloud infrastructure, enabling them to serve billions of users every day, underscoring how much technology has changed.
+The case also highlights how computing infrastructure has evolved over time. Social media moved from websites on a computer, like MySpace, to mobile apps like Instagram and TikTok. These apps run on massive cloud infrastructure, enabling them to serve billions of users every day, underscoring how much technology has changed.
 
-Finally, it shows that companies must continually learn and adapt to new technology. MySpace did not keep up, so it lost its users to Facebook.
+Lastly, it shows that companies must continually learn and adapt to new technology. MySpace did not keep up, so it lost its users to Facebook.
 
 ## 5. Ethical Reflections & Improvements
 ### 5.1. Identified Ethical Issues
