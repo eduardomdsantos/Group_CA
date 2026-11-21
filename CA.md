@@ -1,4 +1,5 @@
 # From MySpace to TikTok: The Evolution os Social Media Platforms - A Business Case Study
+
 ## 1. Introduction
 ### 1.1. Context
 Social media has moved through three phases, each phase defined by what the product is. In the first, profile-based networking, MySpace (2003) and Facebook (2004) sold the user's page and connections. News Corporation bought MySpace for $580 million and sold it for $35 million six years later (CBS Boston, 2011). Facebook then built a feed and a like button, and bought its rivals, acquiring Instagram for about $1 billion in 2012 (Meta, 2012). TikTok (2017) replaced the friend graph with an interest graph in which a recommendation algorithm decides what is seen, and artificial intelligence has deepened this personalisation since 2023. Throughout, the model has stayed the same: free access funded by advertising.
@@ -8,41 +9,44 @@ These platforms now shape education, community life and politics for billions of
 The evolution of social media from MySpace to TikTok has been driven by business models that sell users' attention and data. This has brought real societal benefits (connection, information and political debate) and growing costs (distraction, loneliness, disinformation), so lasting success will belong to platforms that earn attention responsibly by building ethics into their design and strategy.
 ### 1.4. Viewpoint Selection
 This case examines the evolution of social media through two viewpoints. The societal viewpoint takes the perspective of an average person and assesses how platforms have affected education, communities and politics. The business viewpoint assesses money, competition and value at MySpace, Facebook, Instagram and TikTok. Using both is justified because the business choices that created value (advertising, data collection, algorithmic feeds, acquisitions) are also the source of the societal effects. The ethical reflection applies both viewpoints, using a stakeholder approach (Cho et al., 2024).
+
 ## 2. Historial Development
 ### 2.1. Timeline
-2003-2005 Profile and Personalization Era
+#### 2003-2005 Profile and Personalization Era
 MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customization and a platform for independent bands.
 The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking
 In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos.
 
-2006 - 2008 Change of Guard and Microblogging
+#### 2006 - 2008 Change of Guard and Microblogging
 In March 2006, Twitter entered the scene with a 140 character limit and popularized real time microblogging and worldwide news delivery
 In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential
 In 2008, Facebook surpassed MySpace in monthly active users and offically claimed market dominance
 
-2010 - 2012
+#### 2010 - 2012
 In October 2010, Kevin Systrom and Mike Krieger launched Instagram as an IOS only app, which leveraged the upgraded canera if the iPhone 4 to focus fully on filtered photography and immediate liking mechanics
 In July 2011 , Evan Spiegel and Bobby Murphy launched Snapchat. They redefined social habits among younger people through disappearing photos and messages
 In April 2012, Facebook bought a fast growing Instragram for 1 billion dollars.
 
-2016 - Present
+#### 2016 - Present
 In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. Tiktok disrupted traditonal social networks by using hyoer accurate content recommendation algorithm instead of a user's friend graph
 In 2020-2021, Youtube Shorts and Instagram Reels were introducted to compete with Tiktok's vertical video interface.
 Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 million dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users
 
-2023 - Present Artificial Intelligence Era
+#### 2023 - Present Artificial Intelligence Era
 Artificial Intelligance (AI) has changed social media through personalised recommendations, chatbots and targeted advertisement. Platforms that we have looked at already like Tiktok, Instagram and Facebook use AI to suggest content based on user's interests. However, AI has also increased concerns about privacy and fake information. Nowadays it still continues to shape how people communicate online. 
 
 ### 2.3. Key Figures
-Tom Anderson (2003): Founded MySpace which was one of the first major social networking sites
-Mark Zuckerberg (2004): Founded Facebook which transformed online communication majorly
-Steve Chen (2005): Founded Youtube which changed how videos were shared
-Jack Dorsey (2006): Founded Twiiter. This introduced short public updates
-Kevin Systrom (2010): Founded Instagram which popularised photo sharing social media
-Evan Spiegel (2011): Founded Snapchat which intorduced disappearing messages
-Zhang Yiming (2012): Founded ByteDance (2012), the company behind TikTok
-Mark Zuckerberg (2023): Founded Threads, which expanded social media discussions
+- Tom Anderson (2003): Founded MySpace which was one of the first major social networking sites
+- Mark Zuckerberg (2004): Founded Facebook which transformed online communication majorly
+- Steve Chen (2005): Founded Youtube which changed how videos were shared
+- Jack Dorsey (2006): Founded Twiiter. This introduced short public updates
+- Kevin Systrom (2010): Founded Instagram which popularised photo sharing social media
+- Evan Spiegel (2011): Founded Snapchat which intorduced disappearing messages
+- Zhang Yiming (2012): Founded ByteDance (2012), the company behind TikTok
+- Mark Zuckerberg (2023): Founded Threads, which expanded social media discussions
+
 ### 2.4. Major Milestones
+
 ## 3. Societal Viewpoint Analysis
 ### 3.1. Definition of the Societal Point of View:
 A societal viewpoint is a perspective of society or an average person on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, quality of life in communities and politics.
@@ -158,6 +162,7 @@ Second, it shows that data is one of the most valuable business assets today. Ap
 Third, it shows the evolution of computing. Social media moved from websites on a computer, like MySpace, to mobile apps like Instagram and TikTok. These apps run on massive cloud infrastructure, enabling them to serve billions of users every day, underscoring how much technology has changed.
 
 Finally, it shows that companies must continually learn and adapt to new technology. MySpace did not keep up, so it lost its users to Facebook.
+
 ## 5. Ethical Reflections & Improvements
 ### 5.1. Identified Ethical Issues
 #### 5.1.1. Attention as a Product
@@ -207,6 +212,7 @@ Stakeholder research shows that consumers, employees, regulators and journalists
 ##### Likely trade-off:
 - Reputational exposure.
 - Disclosure exposure.
+
 ## 6. Conclusion
 From MySpace to TikTok, each platform has won by capturing attention more effectively than its predecessor, and the costs of that capture have passed to users and society until competition or regulation intervened.
 ### 6.1. Synthesis
