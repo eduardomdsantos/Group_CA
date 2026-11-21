@@ -58,7 +58,7 @@ How it is related: As the social media became more accessible and widely used, a
 
 1. Distraction: It has become a common issue that social media platforms, especially the ones that offer a short video format or FYP (For you page), distract students from their work, weather it is at home, when they prefer to spend their evening scrolling through those videos or even in class, where they choose social media and entertainment over a lecture or a class 
 
-2. Focus: The same format of short videos also strongly affects students ability to focus on long texts or lectures. According to ("Frontiers of neuro science", research of 2024), there is a connection between long exposure to the format of short viedos that don't require concentration and future problems with focusing on long mundaine tasks. 
+2. Focus: The same format of short videos also strongly affects students ability to focus on long texts or lectures. According to "Frontiers of neuro science", research of 2024, there is a connection between long exposure to the format of short viedos that don't require concentration and future problems with focusing on long mundaine tasks. 
 
 ## Communities
 
@@ -74,7 +74,7 @@ How it is related: The development of social media has led to huge changes in ho
 
 1. Social isolation: Social media makes communication easier, but excessive use of it can cause loneliness and lead to social isolation. A research published by PubMedfound a link between excesive social media use and higher levels of loneliness.
 
-2. Mental health strain: As mentioned before, the development of social media has lead to easier communications and connections, which also means it has lead to easier spread of missinformaation and bullying. "worldmetrics.com" states that the cyberbullying rate has increased by 28% in the last 5 years and it doesn't seem like the situation is going to get any better any time soon.
+2. Mental health strain: As mentioned before, the development of social media has lead to easier communications and connections, which also means it has lead to easier spread of missinformaation and bullying. W.H.O's research (W.H.O stands for world health organisation) states that the cyberbullying rate has increased by 28% in the last 5 years and it doesn't seem like the situation is going to get any better any time soon.
 
 # Politics
 
@@ -89,7 +89,7 @@ How it is related: Although the social media in its largest is used for entertai
 
 1. More disinformation: This point explains itself, it is an average thing for political opponents to post disinformation about each ohter, even bigger problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of weather it is truth or not
 
-2. Affected decision-makeing: A research done by "Proceedings of NAtional Academy of Sciences", published on pnas.org states that social media platfroms like facebook, instagram and twitter can contribute to creatin of so calle echo chambers. An echo chamber is an environment in which one aertile, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion.
+2. Affected decision-makeing: A research done by "Proceedings of National Academy of Sciences", published on pnas.org states that social media platfroms like facebook, instagram and twitter can contribute to creatin of so calle echo chambers. An echo chamber is an environment in which one aertile, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion.
 
 
 ## Business Viewpoint Analysis
