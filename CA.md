@@ -56,7 +56,7 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 #### Mark Zuckerberg (2023):
 - Founded Threads, which expanded social media discussions.
 
-### 2.4. Major Milestones
+### 2.3. Major Milestones
 
 ## 3. Societal Viewpoint Analysis
 ### 3.1. Definition of the Societal Point of View:
