@@ -46,7 +46,7 @@ Artificial Intelligance (AI) has changed social media through personalised recom
 #### Steve Chen (2005):
 - Founded Youtube which changed how videos were shared
 #### Jack Dorsey (2006):
-- Founded Twiiter. This introduced short public updates
+- Founded Twitter. This introduced short public updates
 #### Kevin Systrom (2010):
 - Founded Instagram which popularised photo sharing social media
 #### Evan Spiegel (2011):
