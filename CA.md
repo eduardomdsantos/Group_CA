@@ -16,27 +16,27 @@ This case study looks at the evolution of social media from two perspectives. Th
 ## 2. Historical Development
 ### 2.1. Timeline
 #### 2003-2005: Profile and Personalization Era
-MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customization and a platform for independent brands.
+MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customisation and a platform for independent brands.
 The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking.
 In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos.
 
 #### 2006 - 2008: Change of Guard and Microblogging
-In March 2006, Twitter entered the scene with a 140 character limit and popularized real time microblogging and worldwide news delivery.
+In March 2006, Twitter entered the scene with a 140 character limit and popularised real time microblogging and worldwide news delivery.
 In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential.
 In 2008, Facebook surpassed MySpace in monthly active users and officially claimed market dominance.
 
 #### 2010 - 2012
 In October 2010, Kevin Systrom and Mike Krieger launched Instagram as an IOS only app, which leveraged the upgraded camera of the iPhone 4 to focus fully on filtered photography and immediate liking mechanics.
-In July 2011 , Evan Spiegel and Bobby Murphy launched SnapChat. They redefined social habits among younger people through disappearing photos and messages.
+In July 2011 , Evan Spiegel and Bobby Murphy launched Snapchat. They redefined social habits among younger people through disappearing photos and messages.
 In April 2012, Facebook bought a fast growing Instagram for 1 billion dollars.
 
 #### 2016 - Present
-In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. Tiktok disrupted traditional social networks by using a hyper accurate content recommendation algorithm instead of a user's friend graph.
-In 2020-2021, YouTube Shorts and Instagram Reels were introduced to compete with Tiktok's vertical video interface.
+In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. TikTok disrupted traditional social networks by using a hyper accurate content recommendation algorithm instead of a user's friend graph.
+In 2020-2021, YouTube Shorts and Instagram Reels were introduced to compete with TikTok's vertical video interface.
 Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 billion dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users.
 
 #### 2023 - Present: Artificial Intelligence Era
-Artificial Intelligence (AI) has changed social media through personalised recommendations, chatbots and targeted advertisement. Platforms that we have looked at already like Tiktok, Instagram and Facebook use AI to suggest content based on users' interests. However, AI has also increased concerns about privacy and fake information. Nowadays it still continues to shape how people communicate online. 
+Artificial Intelligence (AI) has changed social media through personalised recommendations, chatbots and targeted advertisement. Platforms that we have looked at already like TikTok, Instagram and Facebook use AI to suggest content based on users' interests. However, AI has also increased concerns about privacy and fake information. Nowadays it still continues to shape how people communicate online. 
 
 ### 2.2. Key Figures
 #### Tom Anderson (2003):
@@ -50,7 +50,7 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 #### Kevin Systrom (2010):
 - Founded Instagram which popularised photo sharing social media.
 #### Evan Spiegel (2011):
-- Founded SnapChat which introduced disappearing messages.
+- Founded Snapchat which introduced disappearing messages.
 #### Zhang Yiming (2012):
 - Founded ByteDance (2012), the company behind TikTok.
 #### Mark Zuckerberg (2023):
@@ -68,7 +68,7 @@ How it is related: As the social media became more accessible and widely used, a
 
 ##### Positive: 
 
-- Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, TikTok and SnapChat.
+- Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, TikTok and Snapchat.
 - Information: It became much easier for students to find information by themselves and study independently (OECD, 2026).
 
 ##### Negative: 
@@ -183,7 +183,7 @@ An analysis of over 100 million posts found that users on Facebook and Twitter m
 #### 5.1.4. Competition and Accountability
 When Facebook bought Instagram, it removed a fast-growing competitor, and Instagram's founders eventually left in 2018 following disagreements over how much independence the app should keep (Constine, 2018). Buying rivals helps protect a company's market share, but it also puts control over public communication into the hands of just a few firms. Furthermore, relying on advertising for roughly 98% of total revenue makes Meta's business model vulnerable if ad spending drops.
 
-Still, the benefits of social media, like staying in touch across long distances, getting school updates outside term time, and joining political discussions, are real. The goal is not to get rid of social media, but to recognize that its downsides hit certain groups harder than others, especially young people. Research on corporate responsibility shows that customers, workers, regulators, and journalists all react differently when companies act irresponsibly (Cho et al., 2024). In the case of social media, users, parents, schools, advertisers, content creators, and regulators each face different trade-offs: young people carry most of the mental health risks, advertisers pay for attention, creators rely on algorithms for reach, and governments bear the cost of regulation. Any realistic solution needs to protect younger users without ruining the features that others find useful.
+Still, the benefits of social media, like staying in touch across long distances, getting school updates outside term time, and joining political discussions, are real. The goal is not to get rid of social media, but to recognise that its downsides hit certain groups harder than others, especially young people. Research on corporate responsibility shows that customers, workers, regulators, and journalists all react differently when companies act irresponsibly (Cho et al., 2024). In the case of social media, users, parents, schools, advertisers, content creators, and regulators each face different trade-offs: young people carry most of the mental health risks, advertisers pay for attention, creators rely on algorithms for reach, and governments bear the cost of regulation. Any realistic solution needs to protect younger users without ruining the features that others find useful.
 
 ### 5.2. Proposed Improvements of Ethical Issues 
 #### 5.2.1. Attention as a Product
