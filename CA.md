@@ -95,70 +95,68 @@ How it is related: Although the social media in its largest is used for entertai
 ## Business Viewpoint Analysis
 
 ### Defining the Business Viewpoint
-The business viewpoint looks at money, competition, and value. So businesses always focus on making money, how to compete with other companies, and how they can grow their business. When we look at social media, we all have the same question: how are they making money, when we use it for free? But actually, the answer is they are making money from people's time and attention, mostly by showing adverts. So the more you see their ads, the more they make money.
+The business viewpoint looks at money, competition, and value. When we look at social media, we all have the same question: how are they making money when we use it for free? However, the answer is that they are making money from people's time and attention, mostly by showing adverts.
 
 ### MySpace
 MySpace was one of the first big social media sites. In 2005, a company called News Corporation bought MySpace for $580 million (NPR, 2011).
 
 Positive:
-1. It shows that social media is worth a lot of money, because a big company paid $580 million for it (NPR, 2011).
+1. It shows that social media is worth a lot of money (NPR, 2011).
 2. At its peak, it had 70 million visitors per month (NPR, 2011).
 
 Negative:
 1. When Facebook became more popular, a lot of people switched to it, and advertisers moved there too.
-2. MySpace was sold for only $35 million, which was a big loss for the company (NPR, 2011).
+2. MySpace was sold for only $35 million (NPR, 2011).
 
-From a business perspective, this shows that having a lot of viewers alone is not enough; you always need to keep improving your app and follow trends, or people will move on.
+From a business perspective, this shows that having a lot of viewers alone is not enough; you need to keep improving your app and follow trends, or people will move on.
 
 ### Facebook
-Facebook is free to use, but it makes almost all of its money from ads. When people use Facebook, they share things like their age, where they live, and what they like, so Facebook can show ads to the right people.
+Facebook is free to use, but it makes almost all of its money from ads. When people use Facebook, they share information such as their age and what they like so Facebook can show ads to the right people.
 
 Positive:
-1. In 2024, Meta, the company that owns Facebook, made $164.5 billion, and $160.6 billion of that came from ads (Meta Platforms, 2025).
+1. In 2024, Meta made $164.5 billion, and $160.6 billion of that came from ads (Meta Platforms, 2025).
 2. By December 2024, around 3.35 billion people were using Meta's apps every day (Meta Platforms, 2025).
 
 Negative:
-1. About 98% of its money comes from ads, so if advertisers stop paying, it could lose most of its income.
+1. About 98% of its money comes from ads.
 2. Ad prices can go down too; in 2023, the average price per ad went down by 9% (Meta Platforms, 2025).
 
-From a business viewpoint, this shows that information about users is very valuable, but relying on only one way to make money is risky.
+From a business perspective, this shows that user information is very valuable, but relying on only one way to make money is risky.
 
 ### Instagram
-Instead of only competing with new apps, Facebook bought them. In April 2012, Facebook agreed to buy Instagram for about $1 billion (NPR, 2012). At that time, Instagram was a very small company with 13 employees (NPR, 2012), but it was growing very quickly and getting popular with young people.
+Facebook agreed to buy Instagram for about $1 billion (NPR, 2012). At that time, Instagram was a small company with 13 employees, but it was growing quickly.
 
 Positive:
-1. Facebook got rid of the competition that was growing. If Instagram had kept growing on its own, it could have taken most of the young users away from Facebook.
-2. Later, Instagram became one of Meta's most important ways to make money, and it helped Meta compete really well with new apps like TikTok and others (Yahoo Finance, 2025).
+1. Facebook got rid of the competition.
+2. Later, Instagram became one of Meta's most important ways to make money, and it helped Meta compete with new apps like TikTok (Yahoo Finance, 2025).
 
 Negative:
-1. $1 billion was actually a lot of money for a company with only 13 employees (NPR, 2012). From a business viewpoint, it was a big risk for Facebook, and it might not have been worth it.
-2. In 2018, the two people who made Instagram left Facebook because they did not agree with Mark Zuckerberg about how to run the app (MacRumors, 2018). This shows that when you buy a company, you can lose the people who made it successful.
+1. $1 billion was a lot of money for a company with only 13 employees (NPR, 2012).
+2. In 2018, the two people who made Instagram left Facebook because they did not agree with Mark Zuckerberg (MacRumors, 2018).
 
-From a business viewpoint, buying a competitor can be a smart way to stay on top, because you have less competition and people keep using your apps. But it costs a lot of money, and you can lose the people who made the app good.
+From a business viewpoint, buying a competitor can be a smart way to stay on top. However, it costs a lot of money, and you can lose the people who made the app good.
 
 ### TikTok
-TikTok belongs to ByteDance, a company from China. It became popular very quickly because of its short videos and its "For You" page, which shows each person videos and things they would actually like. Like Facebook, it is free to use and makes most of its money from ads, but it also earns money from live streams and online shopping.
+TikTok belongs to ByteDance, a company from China. It became popular very quickly because of its short videos and its "For You" page, which shows each person videos they would like.
 
 Positive:
-1. TikTok's ad revenue is growing very fast. In 2025, it generated about $33.1 billion in ad revenue (Revenue Memo, 2025). This shows that advertisers want to be where young people are because they spend so much time on their phones.
-2. It does not rely only on ads. People can buy gifts and send them to creators on live streams, and many creators make a lot of money from that. This brought in over $3 billion in 2025 (Revenue Memo, 2025).
+1. In 2025, it generated about $33.1 billion in ad revenue (Revenue Memo, 2025).
+2. It does not rely only on ads. People can buy gifts and send them to creators on live streams. This brought in over $3 billion in 2025 (Revenue Memo, 2025).
 
 Negative:
 1. The US is TikTok's biggest market, so almost $12 billion in ad money was at risk when the US wanted to ban it (Search Engine Land, 2025).
-2. In the end, ByteDance had to give control of TikTok in the US to a new company owned mostly by American investors, and ByteDance kept only 19.9% (TheJournal.ie, 2026).
+2. ByteDance had to give control of TikTok in the US to a new company owned mostly by American investors, and ByteDance kept only 19.9% (TheJournal.ie, 2026).
 
-From a business perspective, this shows that a new idea like short videos can beat older apps very quickly because people love them. But politics can be a big risk for a global business.
+From a business perspective, this shows that a new idea like short videos can beat older apps very quickly. However, politics can be a big risk for a global business.
 
 ### Connection to Module Concepts
 This case study links to many key ideas from the module.
 
-First, it shows how computing business models have changed. Social media apps are free to use, but they make a lot of money by selling users' attention to advertisers. This means the users are not really the customers. Advertisers are the customers because they are the ones who pay.
+First, it shows how computing business models have changed. Social media apps are free to use, but they make a lot of money by selling users' attention to advertisers.
 
-Second, it shows that data is one of the most valuable business assets today. Apps like Facebook and TikTok collect information about what people like, so they can show them the right ads, which leads to more people buying from those ads.
+Second, it shows that data is one of the most valuable business assets today. Apps like Facebook and TikTok collect information about what people like so that they can show them the right ads.
 
-Third, it shows the evolution of computing. Social media moved from websites on a computer, like MySpace, to mobile apps like Instagram and TikTok. These apps run on massive cloud infrastructure, enabling them to serve billions of users every day, underscoring how much technology has changed.
-
-Finally, it shows that companies must continually learn and adapt to new technology. MySpace did not keep up, so it lost its users to Facebook.
+Third, it shows the evolution of computing. Social media moved from websites on a computer, like MySpace, to mobile apps like Instagram and TikTok. These apps run on massive cloud infrastructure.
 
 ## Ethical Reflections & Improvements
 ### Identified Ethical Issues
