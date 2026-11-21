@@ -2,22 +2,25 @@
 
 ## 1. Introduction
 ### 1.1. Context
-Social media has moved through three phases, each phase defined by what the product is. In the first, profile-based networking, MySpace (2003) and Facebook (2004) sold the user's page and connections. News Corporation bought MySpace for $580 million and sold it for $35 million six years later (CBS Boston, 2011). Facebook then built a feed and a like button, and bought its rivals, acquiring Instagram for about $1 billion in 2012 (Meta, 2012). TikTok (2017) replaced the friend graph with an interest graph in which a recommendation algorithm decides what is seen, and artificial intelligence has deepened this personalisation since 2023. Throughout, the model has stayed the same: free access funded by advertising.
+Social media has gone through three main phases, and each phase changed what the core product was. In the first phase, profile-based networking, platforms like MySpace (2003) and Facebook (2004) were built around a user's personal page and friend list. News Corporation bought MySpace for $580 million in 2005, only to sell it for $35 million six years later after it lost its audience (CBS Boston, 2011). Facebook then introduced the news feed and the "Like" button and grew further by buying out competitors like Instagram for around $1 billion in 2012 (Meta, 2012). Later, TikTok (2017) shifted away from friend lists entirely by using a recommendation algorithm to show content based on a user's interests, a trend that artificial intelligence has pushed even further since 2023. Despite all these changes, the underlying business model has stayed the same: the platforms are free to use and make money through advertising.
+
 ### 1.2. Significance
-These platforms now shape education, community life and politics for billions of people. DataReportal counts 5.81 billion social media user identities in October 2026 (Kemp, 2026). Governance is therefore a management issue. Australia's minimum age rules for under-16s have applied since December 2025 (Australian Government, n.d.), the European Commission proposed the EU KIDS Act in September 2026, under which children could open their own accounts only from age 15 (EEAS, 2026), and TikTok's US business became a majority American-owned joint venture in January 2026 (Shepardson, 2026).
+These platforms now influence education, everyday community life, and politics for billions of users. According to DataReportal, there were 5.81 billion social media user identities worldwide as of October 2026 (Kemp, 2026). Because these platforms have become so large, managing and regulating them has turned into a major business and policy issue. For example, Australia's under-16 social media ban has been in effect since December 2025 (Australian Government, n.d.), the European Commission proposed the EU KIDS Act in September 2026 to set the minimum age for opening an account at 15 (EEAS, 2026), and TikTok's US operations were restructured into a majority American-owned joint venture in January 2026 (Shepardson, 2026).
+
 ### 1.3. Thesis Statement
-The evolution of social media from MySpace to TikTok has been driven by business models that sell users' attention and data. This has brought real societal benefits (connection, information and political debate) and growing costs (distraction, loneliness, disinformation), so lasting success will belong to platforms that earn attention responsibly by building ethics into their design and strategy.
+The growth of social media from MySpace to TikTok has been driven by business models that profit from capturing user attention and collecting data. While this has created real benefits for society, such as easier communication, wider access to information, and open political debate, it has also led to serious problems like distraction, loneliness, and disinformation. Going forward, long-term success will belong to platforms that balance profit with user well-being by building ethical practices into their design and strategy.
+
 ### 1.4. Viewpoint Selection
-This case examines the evolution of social media through two viewpoints. The societal viewpoint takes the perspective of an average person and assesses how platforms have affected education, communities and politics. The business viewpoint assesses money, competition and value at MySpace, Facebook, Instagram and TikTok. Using both is justified because the business choices that created value (advertising, data collection, algorithmic feeds, acquisitions) are also the source of the societal effects. The ethical reflection applies both viewpoints, using a stakeholder approach (Cho et al., 2024).
+This case study looks at the evolution of social media from two perspectives. The societal viewpoint takes the perspective of an everyday user and looks at how these platforms affect education, local and online communities, and politics. The business viewpoint looks at revenue, competition, and company value across MySpace, Facebook, Instagram, and TikTok. Combining both viewpoints makes sense because the same business decisions that generate profit—such as targeted ads, data tracking, algorithmic feeds, and buying out rivals—are also what cause the biggest social impacts. Finally, the ethical reflection brings both sides together using a stakeholder approach (Cho et al., 2024).
 
 ## 2. Historial Development
 ### 2.1. Timeline
-#### 2003-2005 Profile and Personalization Era
+#### 2003-2005: Profile and Personalization Era
 MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customization and a platform for independent bands.
 The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking
 In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos.
 
-#### 2006 - 2008 Change of Guard and Microblogging
+#### 2006 - 2008: Change of Guard and Microblogging
 In March 2006, Twitter entered the scene with a 140 character limit and popularized real time microblogging and worldwide news delivery
 In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential
 In 2008, Facebook surpassed MySpace in monthly active users and offically claimed market dominance
@@ -32,18 +35,26 @@ In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 20
 In 2020-2021, Youtube Shorts and Instagram Reels were introducted to compete with Tiktok's vertical video interface.
 Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 million dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users
 
-#### 2023 - Present Artificial Intelligence Era
+#### 2023 - Present: Artificial Intelligence Era
 Artificial Intelligance (AI) has changed social media through personalised recommendations, chatbots and targeted advertisement. Platforms that we have looked at already like Tiktok, Instagram and Facebook use AI to suggest content based on user's interests. However, AI has also increased concerns about privacy and fake information. Nowadays it still continues to shape how people communicate online. 
 
 ### 2.3. Key Figures
-- Tom Anderson (2003): Founded MySpace which was one of the first major social networking sites
-- Mark Zuckerberg (2004): Founded Facebook which transformed online communication majorly
-- Steve Chen (2005): Founded Youtube which changed how videos were shared
-- Jack Dorsey (2006): Founded Twiiter. This introduced short public updates
-- Kevin Systrom (2010): Founded Instagram which popularised photo sharing social media
-- Evan Spiegel (2011): Founded Snapchat which intorduced disappearing messages
-- Zhang Yiming (2012): Founded ByteDance (2012), the company behind TikTok
-- Mark Zuckerberg (2023): Founded Threads, which expanded social media discussions
+#### Tom Anderson (2003):
+- Founded MySpace which was one of the first major social networking sites
+#### Mark Zuckerberg (2004):
+- Founded Facebook which transformed online communication majorly
+#### Steve Chen (2005):
+- Founded Youtube which changed how videos were shared
+#### Jack Dorsey (2006):
+- Founded Twiiter. This introduced short public updates
+#### Kevin Systrom (2010):
+- Founded Instagram which popularised photo sharing social media
+#### Evan Spiegel (2011):
+- Founded Snapchat which intorduced disappearing messages
+#### Zhang Yiming (2012):
+- Founded ByteDance (2012), the company behind TikTok
+#### Mark Zuckerberg (2023):
+- Founded Threads, which expanded social media discussions
 
 ### 2.4. Major Milestones
 
@@ -58,7 +69,7 @@ How it is related: As the social media became more accessible and widely used, a
 
 1. Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, tiktok and snapchat 
 
-2. Information: It became much easier for students to find information by themselves and study independently(Organization for Economic Co-operation and Development, 2026)
+2. Information: It became much easier for students to find information by themselves and study independently (Organization for Economic Co-operation and Development, 2026)
 ###### Negative: 
 
 1. Distraction: It has become a common issue that social media platfroms distract students from thair work, weather it is at home or in class where they choose social media and entertainment over a lecture or a class (Organization for Economic Co-operation and Development, 2026)
@@ -92,7 +103,7 @@ How it is related: Although the social media in its largest is used for entertai
 
 1. More disinformation: This point explains itself, it is an average thing for political opponents to post disinformation about each ohter, even bigger problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of weather it is truth or not
 
-2. Affected decision-makeing: Social media platfroms like facebook, instagram and twitter can contribute to creatin of so calle echo chambers. An echo chamber is an environment in which one aertile, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (Proceeding of the NAtional Academy of Sciences, 2021).
+2. Affected decision-makeing: Social media platfroms like facebook, instagram and twitter can contribute to creatin of so calle echo chambers. An echo chamber is an environment in which one aertile, opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (Proceeding of the National Academy of Sciences, 2021).
 
 
 ## 4. Business Viewpoint Analysis
@@ -164,15 +175,19 @@ Finally, it shows that companies must continually learn and adapt to new technol
 ## 5. Ethical Reflections & Improvements
 ### 5.1. Identified Ethical Issues
 #### 5.1.1. Attention as a Product
-Users do not pay, so advertisers are the customers and revenue depends on time spent: Meta earned $160.6 billion of its $164.5 billion revenue in 2024 from advertising (Meta Platforms, 2025). This conflicts with user well-being. A small EEG study found that a stronger short-video addiction tendency was associated with weaker conflict-related cognitive control (Yan et al., 2024), and a meta-analysis found that people with internet-use-disorder symptoms report more loneliness (Mestre-Bach et al., 2025). Both findings are correlational, so they show risk rather than proof of harm.
+Because users do not pay to use social media, advertisers are the real customers, and platform revenue depends on keeping people scrolling for as long as possible. For instance, Meta earned $160.6 billion of its $164.5 billion total revenue in 2024 from advertising (Meta Platforms, 2025). This creates a conflict between making money and protecting user well-being. A small EEG study found that people with stronger signs of short-video addiction showed weaker cognitive control when dealing with distractions (Yan et al., 2024), while a meta-analysis linked internet-use-disorder symptoms to higher levels of loneliness (Mestre-Bach et al., 2025). Although these studies show a correlation rather than direct proof of harm, they highlight real risks for heavy users.
+
 #### 5.1.2. Data and Privacy
-Users share their age, location and interests so that platforms can target advertising, and AI personalisation intensifies this. TikTok's US restructuring, which moved US data and the recommendation algorithm into a venture secured in Oracle's US cloud, shows that who holds the data and controls the algorithm is now a geopolitical question (Shepardson, 2026). Consent at sign-up is a weak basis for continuous profiling.
+Users share personal details like their age, location, and interests, which platforms use to target ads a process that AI personalisation has made much more precise. TikTok's 2026 US restructuring, which moved American user data and the recommendation algorithm into a joint venture hosted on Oracle's US cloud servers, shows that data control has become a major political and security issue (Shepardson, 2026). Simply having users click "agree" at sign-up is a weak justification for tracking them continuously over time.
+
 #### 5.1.3. Information and Harm
-An analysis of more than 100 million posts found that Facebook and Twitter users mainly engage with like-minded sources, forming echo chambers (Cinelli et al., 2021). In a WHO/Europe study, 15 per cent of adolescents reported being cyberbullied in 2022, with rates up for both boys and girls since 2018 (WHO Regional Office for Europe, 2024).
+An analysis of over 100 million posts found that users on Facebook and Twitter mostly interact with sources they already agree with, which creates echo chambers (Cinelli et al., 2021). At the same time, a WHO/Europe report found that 15% of adolescents experienced cyberbullying in 2022, marking an increase for both boys and girls since 2018 (WHO Regional Office for Europe, 2024).
+
 #### 5.1.4. Competition and Accountability
-Buying Instagram removed a fast-growing rival, and its founders left in 2018, reportedly after tension over the app's autonomy (Constine, 2018). Acquisition protects market position but concentrates control over how people communicate. Dependence on one revenue source, about 98 per cent of Meta's revenue, also makes the model fragile.
-The benefits are real, including communication across distance, school updates outside term time and wider political debate. The case is therefore not to reject social media but to recognise that its costs fall unevenly, especially on young people.
-Stakeholder research shows that consumers, employees, regulators and journalists perceive and react to corporate irresponsibility in different ways (Cho et al., 2024). Here, users, parents, schools, advertisers, creators and regulators bear different costs and benefits. Young users carry most of the risk, advertisers pay for attention, creators depend on reach and regulators absorb the cost of enforcement. The strongest case for change therefore protects young users without destroying the value that others receive.
+When Facebook bought Instagram, it removed a fast-growing competitor, and Instagram's founders eventually left in 2018 following disagreements over how much independence the app should keep (Constine, 2018). Buying rivals helps protect a company's market share, but it also puts control over public communication into the hands of just a few firms. Furthermore, relying on advertising for roughly 98% of total revenue makes Meta's business model vulnerable if ad spending drops.
+
+Still, the benefits of social media like staying in touch across long distances, getting school updates outside term time, and joining political discussions are real. The goal is not to get rid of social media, but to recognize that its downsides hit certain groups harder than others, especially young people. Research on corporate responsibility shows that customers, workers, regulators, and journalists all react differently when companies act irresponsibly (Cho et al., 2024). In the case of social media, users, parents, schools, advertisers, content creators, and regulators each face different trade-offs: young people carry most of the mental health risks, advertisers pay for attention, creators rely on algorithms for reach, and governments bear the cost of regulation. Any realistic solution needs to protect younger users without ruining the features that others find useful.
+
 ### 5.2. Proposed Improvements of Ethical Issues 
 #### 5.2.1. Attention as a Product
 ##### Improvement:
@@ -183,6 +198,7 @@ Stakeholder research shows that consumers, employees, regulators and journalists
 ##### Likely trade-off:
 - Lower ad impressions.
 - Lower user impressions.
+
 #### 5.2.2. Data and Privacy
 ##### Improvement:
 - Data storage minimisation.
@@ -190,12 +206,14 @@ Stakeholder research shows that consumers, employees, regulators and journalists
 - Privacy preserving age checks.
 ##### Likely trade-off:
 - Less precise targeting.
-#### 5.2.3. Misinformation
+
+#### 5.2.3. Misinformation and Echo-Chambers
 ##### Improvement:
 - AI-content labels.
 - Independent audits of recommender algorithm systems.
 ##### Likely trade-off:
 - Moderation cost.
+
 #### 5.2.4. Dependence on Advertising
 ##### Improvement:
 - Subscriptions.
@@ -203,6 +221,7 @@ Stakeholder research shows that consumers, employees, regulators and journalists
 - Creator tools.
 ##### Likely trade-off:
 - Slower growth at first.
+
 #### 5.2.5. Accountability
 ##### Improvement:
 - Board-level responsibility for well-being.
@@ -212,9 +231,12 @@ Stakeholder research shows that consumers, employees, regulators and journalists
 - Disclosure exposure.
 
 ## 6. Conclusion
-From MySpace to TikTok, each platform has won by capturing attention more effectively than its predecessor, and the costs of that capture have passed to users and society until competition or regulation intervened.
+From MySpace to TikTok, every major social media platform has succeeded by finding better ways to capture user attention, often passing the negative side effects on to users and society until competitors or regulators stepped in.
+
 ### 6.1. Synthesis
-The product changed at every phase (a customisable page, a structured network, filtered photographs, algorithmic video) but the model did not: free access funded by advertising. The business viewpoint shows why this is fragile. MySpace fell from $580 million to $35 million (CBS Boston, 2011), Meta depends on advertising for about 98 per cent of its revenue, and TikTok's 2025 advertising revenue was forecast at $32.4 billion (Advanced Television, 2025) yet political risk reduced ByteDance to 19.9 per cent of its US business (Shepardson, 2026). The societal viewpoint shows the other side: platforms enable connection, school communication and debate, but also distraction, loneliness, bullying and echo chambers. The two converge, because the engagement that earns revenue is the engagement that causes harm. This reflects the module's themes: users are not the customers, advertisers are; data is a core business asset; and firms that fail to adapt, like MySpace, lose their users.
+While the main product changed in each era, from customisable profile pages and friend networks to photo feeds and short algorithmic videos, the core business model stayed the same: free access paid for by ads. Looking at the business side shows why this setup can be risky. MySpace dropped in value from $580 million to $35 million (CBS Boston, 2011), Meta relies on ads for about 98% of its income, and even though TikTok's 2025 ad revenue was projected at $33.1 billion (Revenue Memo, 2025), political pressure forced ByteDance to reduce its stake in its US operations to 19.9% (Shepardson, 2026). Looking at the societal side shows the trade-off: these platforms help people stay connected, share school updates, and discuss politics, but they also fuel distraction, loneliness, cyberbullying, and echo chambers. Both perspectives connect directly to the module's main concepts: users are the product rather than the paying customers, user data is a company's most valuable asset, and platforms that fail to adapt, like MySpace, quickly lose their audience.
+
 ### 6.2. Broader Implications
-For firms, advantage is moving from features to trust, so ethics by design and early compliance are strategic choices. For governments, platforms are treated as infrastructure, as age limits and the TikTok data arrangements show. In the AI era, the same incentive problem will recur in each new technology unless it is designed out. The limits of this case are its reliance on secondary and industry sources and on correlational research. If the proposed changes reduce harm without damaging performance, the lesson of MySpace to TikTok is that sustainable platforms will be those that earn attention responsibly.
+For social media companies, long-term competitive advantage is shifting from flashy new features to user trust, meaning that ethical design and early compliance with regulations are smart business moves. For governments, major platforms are increasingly being treated like essential public infrastructure, as seen in new age restrictions and TikTok's US data rules. As AI becomes even more common online, the same conflict between engagement and well-being will keep showing up unless companies design around it from the start. Finally, this case study is limited by its reliance on secondary sources, company reports, and correlational studies. Ultimately, the history of social media from MySpace to TikTok shows that the platforms built to last will be the ones that earn user attention responsibly.
+
 ## 7. References
