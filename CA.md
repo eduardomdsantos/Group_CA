@@ -14,58 +14,58 @@ The growth of social media from MySpace to TikTok has been driven by business mo
 This case study looks at the evolution of social media from two perspectives. The societal viewpoint takes the perspective of an everyday user and looks at how these platforms affect education, local and online communities, and politics. The business viewpoint looks at revenue, competition, and company value across MySpace, Facebook, Instagram, and TikTok. Combining both viewpoints makes sense because the same business decisions that generate profit, such as targeted ads, data tracking, algorithmic feeds, and buying out rivals, are also what cause the biggest social impacts. Finally, the ethical reflection brings both sides together using a stakeholder approach (Cho et al., 2024).
 
 ## 2. Historical Development
-Social Media has developed significantly since the early 2000s. It has changed how people communicate, share content and use the internet
+Social Media has developed significantly since the early 2000s. It has changed how people communicate, share content and use the internet (boyd and Ellison, 2007).
 ### 2.1. Timeline
 #### 2003-2005: Profile and Personalization Era
-MySpace was created on August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customisation and a platform for independent brands.
-The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking.
-In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos.
+MySpace was created in August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customisation and a platform for independent brands. (boyd and Ellison, 2007).
+The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking. (Kirkpatrick, 2010).
+In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos. (Burges and Green, 2009).
 
 #### 2006 - 2008: Change of Guard and Microblogging
-In March 2006, Twitter entered the scene with a 140 character limit and popularised real time microblogging and worldwide news delivery.
-In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential.
-In 2008, Facebook surpassed MySpace in monthly active users and officially claimed market dominance.
+In March 2006, Twitter entered the scene with a 140 character limit and popularised real time microblogging and worldwide news delivery. (Kwat et al., 2010).
+In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential. (Burges and Green, 2009).
+In 2008, Facebook surpassed MySpace in monthly active users and officially claimed market dominance. (Kirkpatrick, 2010).
 
 #### 2010 - 2012
-In October 2010, Kevin Systrom and Mike Krieger launched Instagram as an IOS only app, which leveraged the upgraded camera of the iPhone 4 to focus fully on filtered photography and immediate liking mechanics.
-In July 2011 , Evan Spiegel and Bobby Murphy launched Snapchat. They redefined social habits among younger people through disappearing photos and messages.
-In April 2012, Facebook bought a fast growing Instagram for 1 billion dollars.
+In October 2010, Kevin Systrom and Mike Krieger launched Instagram as an IOS only app, which leveraged the upgraded camera of the iPhone 4 to focus fully on filtered photography and immediate liking mechanics. (Frier, 2020).
+In July 2011 , Evan Spiegel and Bobby Murphy launched Snapchat. They redefined social habits among younger people through disappearing photos and messages. (Colao, 2012).
+In April 2012, Facebook bought a fast growing Instagram for 1 billion dollars. (Rusli, 2012).
 
 #### 2016 - Present
-In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. TikTok disrupted traditional social networks by using a hyper accurate content recommendation algorithm instead of a user's friend graph.
-In 2020-2021, YouTube Shorts and Instagram Reels were introduced to compete with TikTok's vertical video interface.
-Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 billion dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users.
+In 2016 ByteDance launched Douyin in China which was followed up by TikTok in 2017. TikTok disrupted traditional social networks by using a hyper accurate content recommendation algorithm instead of a user's friend graph. (Kaye, Chen and Zeng, 2021).
+In 2020-2021, YouTube Shorts and Instagram Reels were introduced to compete with TikTok's vertical video interface. (Instagram, 2020).
+Between the years 2022-2024, Elon Musk ended up buying Twitter for 44 billion dollars and rebranded it to X. In between these years Facebook also made history by becoming the first social networking platform to surpass 3 billion monthly active users. (Meta Platforms, 2023)
 
 #### 2023 - Present: Artificial Intelligence Era
-Artificial Intelligence (AI) has changed social media through personalised recommendations, chatbots and targeted advertisement. Platforms that we have looked at already like TikTok, Instagram and Facebook use AI to suggest content based on users' interests. However, AI has also increased concerns about privacy and fake information. Nowadays it still continues to shape how people communicate online. 
+Artificial Intelligence (AI) has changed social media through personalised recommendations, chatbots and targeted advertisement. Platforms that we have looked at already like TikTok, Instagram and Facebook use AI to suggest content based on users' interests. (Narayanan, 2023). However, AI has also increased concerns about privacy and fake information. (Bontridder and Poullet, 2021). Nowadays it still continues to shape how people communicate online. 
 
 ### 2.2. Key Figures
 #### Tom Anderson (2003):
-- Founded MySpace which was one of the first major social networking sites.
+- Founded MySpace which was one of the first major social networking sites.(IEEE, n.d.).
 #### Mark Zuckerberg (2004):
-- Founded Facebook which transformed online communication majorly.
+- Founded Facebook which transformed online communication majorly. (Meta, n.d.).
 #### Steve Chen (2005):
-- Founded YouTube which changed how videos were shared.
+- Founded YouTube which changed how videos were shared. (Computer History Museum, 2019).
 #### Jack Dorsey (2006):
-- Founded Twitter. This introduced short public updates.
+- Founded Twitter. This introduced short public updates. (HISTORY.com Editors, 2019)
 #### Kevin Systrom (2010):
-- Founded Instagram which popularised photo sharing social media.
+- Founded Instagram which popularised photo sharing social media. (Bruner, 2016)
 #### Evan Spiegel (2011):
-- Founded Snapchat which introduced disappearing messages.
+- Founded Snapchat which introduced disappearing messages. (Spiegel, 2024).
 #### Zhang Yiming (2012):
-- Founded ByteDance (2012), the company behind TikTok.
+- Founded ByteDance (2012), the company behind TikTok. (Associated Press, 2024)
 #### Mark Zuckerberg (2023):
-- Founded Threads, which expanded social media discussions.
+- Founded Threads, which expanded social media discussions. (Meta, 2023)
 
 ### 2.3. Major Milestones
 #### 1. Early Social Networking (2003-2006)
-- Websites like MySpace and Facebook made it easier for people to create profiles, connect with friends and communicate with people from across the globe.
+- Websites like MySpace and Facebook made it easier for people to create profiles, connect with friends and communicate with people from across the globe.(boyd and Ellison, 2007).
 #### 2. Mobile Social Media (2007-2012)
-- Smartphones made social media accessible anywhere, and allowed people to share photos and messages and updates on the go.
-#### 4. Rise of Visual Content (2013-2018)
-- Photos, videos and live streaming became more popular. Instagram and Snapchat helped change how people share content
-#### 5. AI and Modern Social Media (2022-Present)
-- Artificial intelligence is now used to recommend content, personalise feeds and help users create digital content.
+- Smartphones made social media accessible anywhere, and allowed people to share photos and messages and updates on the go. (Kaplan and Haenlein, 2010).
+#### 3. Rise of Visual Content (2013-2018)
+- Photos, videos and live streaming became more popular. Instagram and Snapchat helped change how people share content.s(Hu. Manikonda and Kambhampati, 2014)
+#### 4. AI and Modern Social Media (2022-Present)
+- Artificial intelligence is now used to recommend content, personalise feeds and help users create digital content. (Narayanan , 2023).
 ## 3. Societal Viewpoint Analysis
 ### 3.1. Definition of the Societal Point of View:
 
