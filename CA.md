@@ -84,7 +84,7 @@ As social media has bocame more integrated into education it has brought its dra
 ##### Negative: 
 
 - Distraction: It has become a common issue that social media platforms distract students from their work, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
-- Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. (Frontiers of neuroscience, 2024) .
+- Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Frontiers of neuroscience, 2024) .
 
 #### 3.2.2. Communities
 
