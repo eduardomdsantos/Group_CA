@@ -78,13 +78,13 @@ As social media has bocame more integrated into education it has brought its dra
 
 ##### Positive: 
 
-- Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, TikTok and Snapchat.
+- Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, TikTok and Snapchat. (Pew Research Center, 2025)
 - Information: It became much easier for students to find information by themselves and study independently. "Social media platforms such as YouTube, Facebook and LiknedIn are increasingly recognised as informal learning environments" (OECD, 2026).
 
 ##### Negative: 
 
 - Distraction: It has become a common issue that social media platforms distract students from their work, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
-- Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Frontiers of neuroscience, 2024) .
+- Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Frontiers of neuroscience, 2025) .
 
 #### 3.2.2. Communities
 
@@ -92,8 +92,8 @@ The development of social media has led to huge changes in how people communicat
 
 ##### Positive:
 
-- Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. According to DataReportal.com, almost 6 (5.81) billion people in 2026 meet and connect via social media rather than searching for people in person. The research also shows that the rate of these virtual connections has grown by about 2.7 % since 2025 (Pew Research Center, 2024).
-- Worldwide communication: The main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with little to no delay.
+- Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. A 2025 PEW Research Center survey found that 74% of teenagres felt more connected to their friends through social media (Pew Research Center, 2025).
+- Worldwide communication: The main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with little to no delay. (UNESCO, 2025)
 
 ##### Negative:
 
@@ -107,11 +107,11 @@ Although the social media in its largest is used for entertainment, it also serv
 ##### Positive:
 
 - Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great opportunity for all sorts of discussions, especially on important topics such as politics (Pew Research Center, 2025).
-- Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions of other people on a certain political topic.
+- Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions of other people on a certain political topic.(Pew Research Center, 2025)
 
 ##### Negative:
 
-- More disinformation: It is an average thing for political opponents to post disinformation about each other, another problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.
+- More disinformation: It is an average thing for political opponents to post disinformation about each other, another problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.(PNAS, 2026)
 - Affected decision-making: Social media platforms can contribute to creation of so called echo chambers. An echo chamber is an environment in which one opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (PNAS, 2021).
 
 ### 3.3. Connection to module concepts
@@ -265,13 +265,20 @@ For social media companies, long-term competitive advantage is shifting from fla
 ## 7. References
 World Health Organization (2024). Teens, screens and mental health. [online] World Health Organization. Available at: https://www.who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health [Accessed 23 Nov. 2026].
 
+Faverio, M., Anderson, M. and Park, E. (2025). Teens, social media and mental health. [online] Pew Research Center. Available at: https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/ [Accessed 23 Nov. 2026].
+
 National Academy of Sciences (2026). Misinformation and Social Media. [online] PNAS Nexus. Available at: https://academic.oup.com/pnasnexus/pages/pnas-nexus-exploring-social-media [Accessed 23 Nov. 2026].
 
 OECD (2026). Growing up in the social media age. OECD Digital Economy Papers. [online] doi:10.1787/a1132839-en.
 
+https://www.pewresearch.org/short-reads/2025/09/16/42-of-social-media-users-say-the-sites-are-important-for-them-getting-involved-with-political-social-issues/?utm_source=chatgpt.com
+
 Hübner, M., Thalmann, J. and Henseler, J. (2025). Disrupting the browsing experience: Impact of sponsored social media content on affective flow without driving engagement. Frontiers in Neuroscience, 19. doi:10.3389/fnins.2025.1636848.
 
+UNESCO (n.d.). World trends in freedom of expression and media development | UNESCO. [online] www.unesco.org. Available at: https://www.unesco.org/en/world-media-trends [Accessed 23 Nov. 2026].
+
 NW, L.S., Suite 800Washington and Inquiries, D.U.M.F.M. (n.d.). Social Media - Research and data from the Pew Research Center. [online] Pew Research Center. Available at: https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/ [Accessed 23 Nov. 2026].
+
 MacRumors (2018). Instagram expected to become 'more tightly integrated' with Facebook after photo app's founders leave company. [online] Available at: https://macrumors.com/2018/09/25/instagram-founders-leave-facebook [Accessed 23 Nov. 2026].
 
 Meta (2025). Form 10-K: Annual report for the fiscal year ended December 31, 2024. [online] Available at: https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm [Accessed 23 Nov. 2026].
