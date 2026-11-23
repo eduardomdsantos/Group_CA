@@ -271,7 +271,7 @@ National Academy of Sciences (2026). Misinformation and Social Media. [online] P
 
 OECD (2026). Growing up in the social media age. OECD Digital Economy Papers. [online] doi:10.1787/a1132839-en.
 
-https://www.pewresearch.org/short-reads/2025/09/16/42-of-social-media-users-say-the-sites-are-important-for-them-getting-involved-with-political-social-issues/?utm_source=chatgpt.com
+Cinelli, M., Morales, G. De F., Galeazzi, A., Quattrociocchi, W. and Starnini, M. (2021). The echo chamber effect on social media. Proceedings of the National Academy of Sciences, [online] 118(9), pp.1–8. doi:10.1073/pnas.2023301118.
 
 Hübner, M., Thalmann, J. and Henseler, J. (2025). Disrupting the browsing experience: Impact of sponsored social media content on affective flow without driving engagement. Frontiers in Neuroscience, 19. doi:10.3389/fnins.2025.1636848.
 
