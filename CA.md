@@ -84,7 +84,7 @@ As social media has bocame more integrated into education it has brought its dra
 ##### Negative: 
 
 - Distraction: It has become a common issue that social media platforms distract students from their work, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
-- Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Yan et al., 2024).
+- Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. (Frontiers of neuroscience, 2024) .
 
 #### 3.2.2. Communities
 
@@ -264,3 +264,12 @@ While the main product changed in each era, from customisable profile pages and 
 For social media companies, long-term competitive advantage is shifting from flashy new features to user trust, meaning that ethical design and early compliance with regulations are smart business moves. For governments, major platforms are increasingly being treated like essential public infrastructure, as seen in new age restrictions and TikTok's US data rules. As AI becomes even more common online, the same conflict between engagement and well-being will keep showing up unless companies design around it from the start. Finally, this case study is limited by its reliance on secondary sources, company reports, and correlational studies. Ultimately, the history of social media from MySpace to TikTok shows that the platforms built to last will be the ones that earn user attention responsibly.
 
 ## 7. References
+World Health Organization (2024). Teens, screens and mental health. [online] World Health Organization. Available at: https://www.who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health [Accessed 23 Nov. 2026].
+
+National Academy of Sciences (2026). Misinformation and Social Media. [online] PNAS Nexus. Available at: https://academic.oup.com/pnasnexus/pages/pnas-nexus-exploring-social-media [Accessed 23 Nov. 2026].
+
+OECD (2026). Growing up in the social media age. OECD Digital Economy Papers. [online] doi:10.1787/a1132839-en.
+
+Hübner, M., Thalmann, J. and Henseler, J. (2025). Disrupting the browsing experience: Impact of sponsored social media content on affective flow without driving engagement. Frontiers in Neuroscience, 19. doi:10.3389/fnins.2025.1636848.
+
+NW, L.S., Suite 800Washington and Inquiries, D.U.M.F.M. (n.d.). Social Media - Research and data from the Pew Research Center. [online] Pew Research Center. Available at: https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/ [Accessed 23 Nov. 2026].
