@@ -79,7 +79,7 @@ As social media has bocame more integrated into education it has brought its dra
 ##### Positive: 
 
 - Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, TikTok and Snapchat.
-- Information: It became much easier for students to find information by themselves and study independently (OECD, 2026).
+- Information: It became much easier for students to find information by themselves and study independently. "Social media platforms such as YouTube, Facebook and LiknedIn are increasingly recognised as informal learning environments" (OECD, 2026).
 
 ##### Negative: 
 
@@ -123,7 +123,7 @@ Such things as bullying and misinformation have existed long before internet has
 
 On the other hand, the same thing can be said about the way it has made socialising and obtaining information much easier.
 
-To sumarise, the development of social media didn't create new problems or opportunities, it just enlarged already existing ones.
+To sumarise, the development of social media didn't create new problems or opportunities, it just enlarged already existing ones
 
 ## 4. Business Viewpoint Analysis
 ### 4.1. Defining the Business Viewpoint
