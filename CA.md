@@ -117,13 +117,13 @@ Although the social media in its largest is used for entertainment, it also serv
 ### 3.3. Connection to module concepts
 The main takeaway from this case study is how social media can affect society in both negative and positive ways, which easily brings us to ethical considerations
 
-In every part of the societal view point, the development of social media has brough both advantages and disadvantages. In general, social media in it's largest is nither good nor bad, but it can be used for both.
+In every part of the societal view point, the development of social media has brough both advantages and disadvantages. In general, social media in it's largest is neither good nor bad, but it can be used for both.
 
-Such things as bullying and missinformation have existed long before internet has been created, and the development of social media did't create those things, but instead has contributed to how easily they are spread now
+Such things as bullying and misinformation have existed long before internet has been created, and the development of social media didn't create those things, but instead has contributed to how easily they are spread now
 
-On the other hand, the same thing can be said baout the way it has made socialising and obtaining information much easier.
+On the other hand, the same thing can be said about the way it has made socialising and obtaining information much easier.
 
-To summarise, the development of social media didn't create newe problems or apportunities, it just enlarged already existing ones.
+To sumarise, the development of social media didn't create new problems or opportunities, it just enlarged already existing ones.
 
 ## 4. Business Viewpoint Analysis
 ### 4.1. Defining the Business Viewpoint
