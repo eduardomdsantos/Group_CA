@@ -2,10 +2,10 @@
 
 ## 1. Introduction
 ### 1.1. Context
-Social media has gone through three main phases, and each phase changed what the core product was. In the first phase, profile-based networking, platforms like MySpace (2003) and Facebook (2004) were built around a user's personal page and friend list. News Corporation bought MySpace for $580 million in 2005, only to sell it for $35 million six years later after it lost its audience (CBS Boston, 2011). Facebook then introduced the news feed and the "Like" button and grew further by buying out competitors like Instagram for around $1 billion in 2012 (Meta, 2012). Later, TikTok (2017) shifted away from friend lists entirely by using a recommendation algorithm to show content based on users' interests, a trend that artificial intelligence has pushed even further since 2023. Despite all these changes, the underlying business model has stayed the same: the platforms are free to use and make money through advertising.
+Social media has gone through three main phases, and each phase changed what the core product was. In the first phase, profile-based networking, platforms like MySpace (2003) and Facebook (2004) were built around a user's personal page and friend list. News Corporation bought MySpace for $580 million in 2005, only to sell it for $35 million six years later after it lost its audience (NPR, 2011). Facebook then introduced the news feed and the "Like" button and grew further by buying out competitors like Instagram for around $1 billion in 2012 (Meta, 2012). Later, TikTok (2017) shifted away from friend lists entirely by using a recommendation algorithm to show content based on users' interests, a trend that artificial intelligence has pushed even further since 2023. Despite all these changes, the underlying business model has stayed the same: the platforms are free to use and make money through advertising.
 
 ### 1.2. Significance
-These platforms now influence education, everyday community life, and politics for billions of users. According to DataReportal, there were 5.81 billion social media user identities worldwide as of October 2026 (Kemp, 2026). Because these platforms have become so large, managing and regulating them has turned into a major business and policy issue. For example, Australia's under-16 social media ban has been in effect since December 2025 (Australian Government, n.d.), the European Commission proposed the EU KIDS Act in September 2026 to set the minimum age for opening an account at 15 (EEAS, 2026), and TikTok's US operations were restructured into a majority American-owned joint venture in January 2026 (Shepardson, 2026).
+These platforms now influence education, everyday community life, and politics for billions of users. According to DataReportal, there were 5.81 billion social media user identities worldwide as of October 2026 (Kemp, 2025). Because these platforms have become so large, managing and regulating them has turned into a major business and policy issue. For example, Australia's under-16 social media ban has been in effect since December 2025 (Australian Government, n.d.), the European Commission proposed the EU KIDS Act in September 2026 to set the minimum age for opening an account at 15 (EEAS, 2026), and TikTok's US operations were restructured into a majority American-owned joint venture in January 2026 (Shepardson, 2026).
 
 ### 1.3. Thesis Statement
 The growth of social media from MySpace to TikTok has been driven by business models that profit from capturing user attention and collecting data. While this has created real benefits for society, such as easier communication, wider access to information, and open political debate, it has also led to serious problems like distraction, loneliness, and disinformation. Going forward, long-term success will belong to platforms that balance profit with user well-being by building ethical practices into their design and strategy.
@@ -19,11 +19,11 @@ Social Media has developed significantly since the early 2000s. It has changed h
 #### 2003-2005: Profile and Personalization Era
 MySpace was created in August 2003 by Tom Anderson, Chris DeWolfe, and Aber Whitcomb as a project with eUniverse (known as Intermix Media). It offered profile customisation and a platform for independent brands. (boyd and Ellison, 2007).
 The Facebook.com launched at Harvard University in February 2004 and it initiated a cleaner and more structured approach to social networking. (Kirkpatrick, 2010).
-In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos. (Burges and Green, 2009).
+In February 2005, three former PayPal employees registered YouTube which transformed the internet from a text and photo medium into a hub for user generated videos. (Burgess and Green, 2009).
 
 #### 2006 - 2008: Change of Guard and Microblogging
 In March 2006, Twitter entered the scene with a 140 character limit and popularised real time microblogging and worldwide news delivery. (Kwat et al., 2010).
-In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential. (Burges and Green, 2009).
+In November 2006, Google bought YouTube for 1.65 billion dollars after recognising the growth potential. (Burgess and Green, 2009).
 In 2008, Facebook surpassed MySpace in monthly active users and officially claimed market dominance. (Kirkpatrick, 2010).
 
 #### 2010 - 2012
@@ -41,7 +41,7 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 
 ### 2.2. Key Figures
 #### Tom Anderson (2003):
-- Founded MySpace which was one of the first major social networking sites.(IEEE, n.d.).
+- Founded MySpace which was one of the first major social networking sites.
 #### Mark Zuckerberg (2004):
 - Founded Facebook which transformed online communication majorly. (Meta, n.d.).
 #### Steve Chen (2005):
@@ -53,7 +53,7 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 #### Evan Spiegel (2011):
 - Founded Snapchat which introduced disappearing messages. (Spiegel, 2024).
 #### Zhang Yiming (2012):
-- Founded ByteDance (2012), the company behind TikTok. (Associated Press, 2024)
+- Founded ByteDance (2012), the company behind TikTok. (Associated Press, 2025)
 #### Mark Zuckerberg (2023):
 - Founded Threads, which expanded social media discussions. (Meta, 2023)
 
@@ -63,7 +63,7 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 #### 2. Mobile Social Media (2007-2012)
 - Smartphones made social media accessible anywhere, and allowed people to share photos and messages and updates on the go. (Kaplan and Haenlein, 2010).
 #### 3. Rise of Visual Content (2013-2018)
-- Photos, videos and live streaming became more popular. Instagram and Snapchat helped change how people share content.s(Hu. Manikonda and Kambhampati, 2014)
+- Photos, videos and live streaming became more popular. Instagram and Snapchat helped change how people share content.s(Hu, Manikonda and Kambhampati, 2014)
 #### 4. AI and Modern Social Media (2022-Present)
 - Artificial intelligence is now used to recommend content, personalise feeds and help users create digital content. (Narayanan , 2023).
 ## 3. Societal Viewpoint Analysis
@@ -84,7 +84,7 @@ As social media has became more integrated into education it has introduced both
 ##### Negative: 
 
 - Distraction: Social media platforms have become a source of distraction for students, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
-- Focus: Extended exposure to the format of short videos that require little concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Yan et al., 2025) .
+- Focus: Extended exposure to the format of short videos that require little concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Yan et al., 2024) .
 
 #### 3.2.2. Communities
 
@@ -93,7 +93,7 @@ The development of social media has led to significant changes in how people com
 ##### Positive:
 
 - Easier connections: With the new, widely used social media platforms it has become much easier to meet new people nearby to socialize with. A 2025 PEW Research Center survey found that 74% of teenagers felt more connected to their friends through social media (Faverio, Anderson and Park, 2025).
-- Worldwide communication: Social media mainly enables people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with little to no delay. (UNESCO, 2025)
+- Worldwide communication: Social media mainly enables people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with little to no delay. (UNESCO, n.d.)
 
 ##### Negative:
 
@@ -111,8 +111,8 @@ Although the social media is mostly used for entertainment, it also serves as a 
 
 ##### Negative:
 
-- More disinformation: It is an average thing for political opponents to post disinformation about each other, another problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.(Del Vicario et al., 2026)
-- Affected decision-making: Social media platforms can contribute to creation of so called echo chambers. An echo chamber is an environment in which one opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (Cinelli, 2021).
+- More disinformation: It is an average thing for political opponents to post disinformation about each other, another problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.(Del Vicario et al., 2016)
+- Affected decision-making: Social media platforms can contribute to creation of so called echo chambers. An echo chamber is an environment in which one opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (Cinelli et al., 2021).
 
 ### 3.3. Connection to module concepts
 The main takeaway from this case study is how social media can affect society in both negative and positive ways, which easily brings us to ethical considerations
@@ -159,12 +159,12 @@ From a business perspective, this shows that user information is very valuable, 
 Facebook agreed to buy Instagram for about $1 billion (NPR, 2012). At that time, Instagram was a small company with 13 employees, but it was growing quickly.
 
 #### Positive:
-1. Facebook got rid of the competition.
-2. Later, Instagram became one of Meta's most important ways to make money, and it helped Meta compete with new apps like TikTok (Yahoo Finance, 2025).
+- Facebook got rid of the competition.
+- Later, Instagram became one of Meta's most important ways to make money, and it helped Meta compete with new apps like TikTok (Yahoo Finance, 2025).
 
 #### Negative:
-1. $1 billion was a lot of money for a company with only 13 employees (NPR, 2012).
-2. In 2018, the two people who made Instagram left Facebook because they did not agree with Mark Zuckerberg (MacRumors, 2018).
+- $1 billion was a lot of money for a company with only 13 employees (NPR, 2012).
+- In 2018, the two people who made Instagram left Facebook because they did not agree with Mark Zuckerberg (MacRumors, 2018).
 
 From a business viewpoint, buying a competitor can be a smart way to stay on top. However, it costs a lot of money, and you can lose the people who made the app good.
 
@@ -172,12 +172,12 @@ From a business viewpoint, buying a competitor can be a smart way to stay on top
 TikTok belongs to ByteDance, a company from China. It became popular very quickly because of its short videos and its "For You" page, which shows each person videos they would like.
 
 #### Positive:
-1. In 2025, it generated about $33.1 billion in ad revenue (Revenue Memo, 2026).
-2. It does not rely only on ads. People can buy gifts and send them to creators on live streams. This brought in over $3 billion in 2025 (Revenue Memo, 2026).
+- In 2025, it generated about $33.1 billion in ad revenue (Revenue Memo, 2026).
+- It does not rely only on ads. People can buy gifts and send them to creators on live streams. This brought in over $3 billion in 2025 (Revenue Memo, 2026).
 
 #### Negative:
-1. The US is TikTok's biggest market, so almost $12 billion in ad money was at risk when the US wanted to ban it (Search Engine Land, 2025).
-2. ByteDance had to give control of TikTok in the US to a new company owned mostly by American investors, and ByteDance kept only 19.9% (TheJournal.ie, 2026).
+- The US is TikTok's biggest market, so almost $12 billion in ad money was at risk when the US wanted to ban it (Search Engine Land, 2025).
+- ByteDance had to give control of TikTok in the US to a new company owned mostly by American investors, and ByteDance kept only 19.9% (TheJournal.ie, 2026).
 
 From a business perspective, this shows that a new idea like short videos can beat older apps very quickly. However, politics can be a big risk for a global business.
 
@@ -257,7 +257,7 @@ Still, the benefits of social media, like staying in touch across long distances
 From MySpace to TikTok, every major social media platform has succeeded by finding better ways to capture user attention, often passing the negative side effects on to users and society until competitors or regulators stepped in.
 
 ### 6.1. Synthesis
-While the main product changed in each era, from customisable profile pages and friend networks to photo feeds and short algorithmic videos, the core business model stayed the same: free access paid for by ads. Looking at the business side shows why this setup can be risky. MySpace dropped in value from $580 million to $35 million (CBS Boston, 2011), Meta relies on ads for about 98% of its income, and even though TikTok's 2025 ad revenue reached $33.1 billion (Revenue Memo, 2025), political pressure forced ByteDance to reduce its stake in its US operations to 19.9% (Shepardson, 2026). Looking at the societal side shows the trade-off: these platforms help people stay connected, share school updates, and discuss politics, but they also fuel distraction, loneliness, cyberbullying, and echo chambers. Both perspectives connect directly to the module's main concepts: users are the product rather than the paying customers, user data is a company's most valuable asset, and platforms that fail to adapt, like MySpace, quickly lose their audience.
+While the main product changed in each era, from customisable profile pages and friend networks to photo feeds and short algorithmic videos, the core business model stayed the same: free access paid for by ads. Looking at the business side shows why this setup can be risky. MySpace dropped in value from $580 million to $35 million (NPR, 2011), Meta relies on ads for about 98% of its income, and even though TikTok's 2025 ad revenue reached $33.1 billion (Revenue Memo, 2025), political pressure forced ByteDance to reduce its stake in its US operations to 19.9% (Shepardson, 2026). Looking at the societal side shows the trade-off: these platforms help people stay connected, share school updates, and discuss politics, but they also fuel distraction, loneliness, cyberbullying, and echo chambers. Both perspectives connect directly to the module's main concepts: users are the product rather than the paying customers, user data is a company's most valuable asset, and platforms that fail to adapt, like MySpace, quickly lose their audience.
 
 ### 6.2. Broader Implications
 For social media companies, long-term competitive advantage is shifting from flashy new features to user trust, meaning that ethical design and early compliance with regulations are smart business moves. For governments, major platforms are increasingly being treated like essential public infrastructure, as seen in new age restrictions and TikTok's US data rules. As AI becomes even more common online, the same conflict between engagement and well-being will keep showing up unless companies design around it from the start. Finally, this case study is limited by its reliance on secondary sources, company reports, and correlational studies. Ultimately, the history of social media from MySpace to TikTok shows that the platforms built to last will be the ones that earn user attention responsibly.
@@ -295,3 +295,43 @@ Search Engine Land (2025). TikTok's $30B ad boom faces US uncertainty. [online] 
 TheJournal.ie (2026). TikTok seals deal to split US app from global business to avoid ban over Chinese ownership. [online] Available at: https://www.thejournal.ie/article.php?id=6935878 [Accessed 23 Nov. 2026].
 
 Yahoo Finance (2025). Meta wins FTC antitrust suit, will keep Instagram and WhatsApp. [online] Available at: https://finance.yahoo.com/news/meta-wins-ftc-antitrust-suit-will-keep-instagram-and-whatsapp-185343578.html [Accessed 23 Nov. 2026].
+
+Haleluya Hadero (2025). Inside the rise and fall of TikTok in the US. [online] AP News. Available at: https://apnews.com/article/tiktok-ban-trump-supreme-court-36c3c3b42f743a35c69e1c74341f1f30 [Accessed 23 Nov. 2026].
+
+Australian Government (n.d.) Online Safety Amendment (Social Media Minimum Age) Act 2024 / eSafety Commissioner guidance. Available at: https://www.esafety.gov.au/ (Accessed: 23 November 2026).
+
+Bontridder, N. and Poullet, Y. (2021) 'The role of artificial intelligence in disinformation', Data & Policy, 3, p. e32. doi:10.1017/dap.2021.20.
+
+boyd, d.m. and Ellison, N.B. (2007) 'Social network sites: Definition, history, and scholarship', Journal of Computer-Mediated Communication, 13(1), pp. 210–230. doi:10.1111/j.1083-6101.2007.00393.x.
+
+Bruner, R. (2016) 'A brief history of Instagram's rise to the top', Time, 16 July. Available at: https://time.com/4408374/instagram-anniversary/ (Accessed: 23 November 2026).
+
+Burgess, J. and Green, J. (2009) YouTube: Online video and participatory culture. Cambridge: Polity Press.
+
+Cho, C.H., Zarzycka, E., She, C., Dobija, D., Krasodomska, J. and Bothello, J. (2025). Examining stakeholder reactions to corporate social irresponsibility: Evidence from social media. European Management Journal, [online] 43(6), pp.1020–1037. doi:10.1016/j.emj.2024.11.001.
+
+Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W. and Starnini, M. (2021) 'The echo chamber effect on social media', Proceedings of the National Academy of Sciences, 118(9), p. e2023301118. doi:10.1073/pnas.2023301118.
+
+Colao, J.J. (2012) 'Snapchat: The biggest no-revenue mobile app since Instagram', Forbes, 27 November. Available at: https://www.forbes.com/sites/jjcolao/2012/11/27/snapchat-the-biggest-no-revenue-mobile-app-since-instagram/ (Accessed: 23 November 2026).
+
+Museum, C.H. and Marguerite Gong Hancock (2019). Steve Chen oral history, part 1 of 2. Computer History Museum. [online] Available at: https://www.computerhistory.org/collections/catalog/102740492/ [Accessed 24 Nov. 2026].
+
+Constine, J. (2018). Why Instagram’s founders are resigning: Independence from Facebook weakened. [online] TechCrunch. Available at: https://techcrunch.com/2018/09/24/instagram-founders-leave/ [Accessed 24 Nov. 2026].
+
+European External Action Service (EEAS) / European Commission (2026) EU KIDS Act proposal. Available at: https://www.eeas.europa.eu/ [Verify exact press release URL] (Accessed: 23 November 2026).
+
+Frier, S. (2020) No filter: The inside story of Instagram. New York: Simon & Schuster.
+
+HISTORY.com Editors (2019) Twitter launches. Available at: https://www.history.com/this-day-in-history/twitter-launches (Accessed: 24 November 2026).
+
+Hu, Y., Manikonda, L. and Kambhampati, S. (2014) 'What we Instagram: A first analysis of Instagram photo content and user types', Proceedings of the International AAAI Conference on Web and Social Media, 8(1), pp. 595–598. doi:10.1609/icwsm.v8i1.14578.
+
+Hu, Y., Manikonda, L. and Kambhampati, S. (2014) 'What we Instagram: A first analysis of Instagram photo content and user types', Proceedings of the International AAAI Conference on Web and Social Media, 8(1), pp. 595–598. doi:10.1609/icwsm.v8i1.14578.
+
+Kemp, S. (2025). Digital 2026 global overview report. [online] DataReportal – Global Digital Insights. Available at: https://datareportal.com/reports/digital-2026-global-overview-report [Accessed 24 Nov. 2026].
+
+Mestre-Bach, G., Paiva, U., San Martín Iniguez, L., Beranuy, M., Martín-Vivar, M., Mallorquí-Bagué, N., Normand, E., Contreras Chicote, M., Potenza, M.N. and Arrondo, G. (2025). The association between internet-use-disorder symptoms and loneliness: A systematic review and meta-analysis with a categorical approach. Psychological Medicine, [online] 55. doi:10.1017/s0033291725000376.
+
+Meta (2012) Facebook to acquire Instagram, 9 April. Available at: https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/ (Accessed: 24 November 2026).
+
+Shepardson, D. (2026). TikTok seals deal for new US joint venture to avoid American ban. Reuters. [online] 23 Jan. Available at: https://www.reuters.com/world/china/tiktok-reaches-deal-new-us-joint-venture-avoid-american-ban-2026-01-23/ [Accessed 24 Nov. 2026].
