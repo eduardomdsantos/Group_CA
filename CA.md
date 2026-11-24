@@ -78,13 +78,13 @@ As social media has bocame more integrated into education it has brought its dra
 
 ##### Positive: 
 
-- Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, TikTok and Snapchat. (Pew Research Center, 2025)
+- Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, TikTok and Snapchat. (Faverio, Anderson and Park, 2025)
 - Information: It became much easier for students to find information by themselves and study independently. "Social media platforms such as YouTube, Facebook and LiknedIn are increasingly recognised as informal learning environments" (OECD, 2026).
 
 ##### Negative: 
 
 - Distraction: It has become a common issue that social media platforms distract students from their work, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
-- Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Frontiers of neuroscience, 2025) .
+- Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Yan et al., 2025) .
 
 #### 3.2.2. Communities
 
@@ -92,7 +92,7 @@ The development of social media has led to huge changes in how people communicat
 
 ##### Positive:
 
-- Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. A 2025 PEW Research Center survey found that 74% of teenagres felt more connected to their friends through social media (Pew Research Center, 2025).
+- Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. A 2025 PEW Research Center survey found that 74% of teenagres felt more connected to their friends through social media (Faverio, Anderson and Park, 2025).
 - Worldwide communication: The main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with little to no delay. (UNESCO, 2025)
 
 ##### Negative:
@@ -106,13 +106,13 @@ Although the social media in its largest is used for entertainment, it also serv
 
 ##### Positive:
 
-- Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great opportunity for all sorts of discussions, especially on important topics such as politics (Pew Research Center, 2025).
-- Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions of other people on a certain political topic.(Pew Research Center, 2025)
+- Easier to share opinions: Many social media platforms have turned into fields of discussion of thoughts. Social media platforms where hundreds of people can meet and interact create a great opportunity for all sorts of discussions, especially on important topics such as politics (Park, 2025).
+- Promotion of viewpoints: Social media platforms make it easier to share  your opinions on political topics or the other way around, receive opinions of other people on a certain political topic.(Park, 2025)
 
 ##### Negative:
 
-- More disinformation: It is an average thing for political opponents to post disinformation about each other, another problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.(PNAS, 2026)
-- Affected decision-making: Social media platforms can contribute to creation of so called echo chambers. An echo chamber is an environment in which one opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (PNAS, 2021).
+- More disinformation: It is an average thing for political opponents to post disinformation about each other, another problem is that people will very rarely double check the information they consume and hence anything they see will usually be accepted regardless of whether it is truth or not.(Del Vicario et al., 2026)
+- Affected decision-making: Social media platforms can contribute to creation of so called echo chambers. An echo chamber is an environment in which one opinion or point of view is quickly spread and grown popular. People that find themselves within an echo chamber can have their original opinion either reinforced or completely changed, causing a real problem with forming a truly unaffected opinion. (Cinelli, 2021).
 
 ### 3.3. Connection to module concepts
 The main takeaway from this case study is how social media can affect society in both negative and positive ways, which easily brings us to ethical considerations
@@ -263,21 +263,23 @@ While the main product changed in each era, from customisable profile pages and 
 For social media companies, long-term competitive advantage is shifting from flashy new features to user trust, meaning that ethical design and early compliance with regulations are smart business moves. For governments, major platforms are increasingly being treated like essential public infrastructure, as seen in new age restrictions and TikTok's US data rules. As AI becomes even more common online, the same conflict between engagement and well-being will keep showing up unless companies design around it from the start. Finally, this case study is limited by its reliance on secondary sources, company reports, and correlational studies. Ultimately, the history of social media from MySpace to TikTok shows that the platforms built to last will be the ones that earn user attention responsibly.
 
 ## 7. References
-World Health Organization (2024). Teens, screens and mental health. [online] World Health Organization. Available at: https://www.who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health [Accessed 23 Nov. 2026].
+**References**
 
-Faverio, M., Anderson, M. and Park, E. (2025). Teens, social media and mental health. [online] Pew Research Center. Available at: https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/ [Accessed 23 Nov. 2026].
+Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W. and Starnini, M. (2021). The echo chamber effect on social media. *Proceedings of the National Academy of Sciences*, 118(9), e2023301118. doi:10.1073/pnas.2023301118.
 
-National Academy of Sciences (2026). Misinformation and Social Media. [online] PNAS Nexus. Available at: https://academic.oup.com/pnasnexus/pages/pnas-nexus-exploring-social-media [Accessed 23 Nov. 2026].
+Del Vicario, M., Bessi, A., Zollo, F., Petroni, F., Scala, A., Caldarelli, G., Stanley, H.E. and Quattrociocchi, W. (2016). The spreading of misinformation online. *Proceedings of the National Academy of Sciences*, 113(3), pp.554–559. doi:10.1073/pnas.1517441113.
 
-OECD (2026). Growing up in the social media age. OECD Digital Economy Papers. [online] doi:10.1787/a1132839-en.
+Faverio, M., Anderson, M. and Park, E. (2025). Teens, social media and mental health. [online] Pew Research Center. Available at: https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/ [Accessed 24 Nov. 2026].
 
-Cinelli, M., Morales, G. De F., Galeazzi, A., Quattrociocchi, W. and Starnini, M. (2021). The echo chamber effect on social media. Proceedings of the National Academy of Sciences, [online] 118(9), pp.1–8. doi:10.1073/pnas.2023301118.
+OECD (2026). Growing up in the social media age. *OECD Digital Economy Papers*. doi:10.1787/a1132839-en.
 
-Hübner, M., Thalmann, J. and Henseler, J. (2025). Disrupting the browsing experience: Impact of sponsored social media content on affective flow without driving engagement. Frontiers in Neuroscience, 19. doi:10.3389/fnins.2025.1636848.
+Park, E. (2025). 42% of social media users say the sites are important for them getting involved with political, social issues. [online] Pew Research Center. Available at: https://www.pewresearch.org/short-reads/2025/09/16/42-of-social-media-users-say-the-sites-are-important-for-them-getting-involved-with-political-social-issues/ [Accessed 24 Nov. 2026].
 
-UNESCO (n.d.). World trends in freedom of expression and media development | UNESCO. [online] www.unesco.org. Available at: https://www.unesco.org/en/world-media-trends [Accessed 23 Nov. 2026].
+UNESCO (2025). World trends in freedom of expression and media development: Global report 2022/2025. [online] Available at: https://www.unesco.org/en/world-media-trends [Accessed 24 Nov. 2026].
 
-NW, L.S., Suite 800Washington and Inquiries, D.U.M.F.M. (n.d.). Social Media - Research and data from the Pew Research Center. [online] Pew Research Center. Available at: https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/ [Accessed 23 Nov. 2026].
+World Health Organization (2024). Teens, screens and mental health. [online] World Health Organization. Available at: https://www.who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health [Accessed 24 Nov. 2026].
+
+Yan, T., Su, C., Xue, W., Hu, Y. and Zhou, H. (2024). Mobile phone short video use negatively impacts attention functions: an EEG study. *Frontiers in Human Neuroscience*, 18. doi:10.3389/fnhum.2024.1383913.
 
 MacRumors (2018). Instagram expected to become 'more tightly integrated' with Facebook after photo app's founders leave company. [online] Available at: https://macrumors.com/2018/09/25/instagram-founders-leave-facebook [Accessed 23 Nov. 2026].
 
