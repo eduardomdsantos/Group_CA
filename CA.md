@@ -264,21 +264,21 @@ For social media companies, long-term competitive advantage is shifting from fla
 
 ## 7. References
 
-Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W. and Starnini, M. (2021). The echo chamber effect on social media. *Proceedings of the National Academy of Sciences*, 118(9), e2023301118. doi:10.1073/pnas.2023301118.
+Cinelli, M., Morales, G. De F., Galeazzi, A., Quattrociocchi, W. and Starnini, M. (2021). The echo chamber effect on social media. Proceedings of the National Academy of Sciences, [online] 118(9), pp.1–8. doi:10.1073/pnas.2023301118.
 
-Del Vicario, M., Bessi, A., Zollo, F., Petroni, F., Scala, A., Caldarelli, G., Stanley, H.E. and Quattrociocchi, W. (2016). The spreading of misinformation online. *Proceedings of the National Academy of Sciences*, 113(3), pp.554–559. doi:10.1073/pnas.1517441113.
+Del Vicario, M., Bessi, A., Zollo, F., Petroni, F., Scala, A., Caldarelli, G., Stanley, H.E. and Quattrociocchi, W. (2016). The spreading of misinformation online. Proceedings of the National Academy of Sciences, [online] 113(3), pp.554–559. doi:10.1073/pnas.1517441113.
 
 Faverio, M., Anderson, M. and Park, E. (2025). Teens, social media and mental health. [online] Pew Research Center. Available at: https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/ [Accessed 24 Nov. 2026].
 
-OECD (2026). Growing up in the social media age. *OECD Digital Economy Papers*. doi:10.1787/a1132839-en.
+OECD (2026). Growing up in the social media age. OECD Digital Economy Papers. [online] doi:10.1787/a1132839-en.
 
-Park, E. (2025). 42% of social media users say the sites are important for them getting involved with political, social issues. [online] Pew Research Center. Available at: https://www.pewresearch.org/short-reads/2025/09/16/42-of-social-media-users-say-the-sites-are-important-for-them-getting-involved-with-political-social-issues/ [Accessed 24 Nov. 2026].
+Park, E. (2025). How important is social media for political and social involvement, according to US adult users? [online] Pew Research Center. Available at: https://www.pewresearch.org/short-reads/2025/09/16/42-of-social-media-users-say-the-sites-are-important-for-them-getting-involved-with-political-social-issues/ [Accessed 24 Nov. 2026].
 
-UNESCO (2025). World trends in freedom of expression and media development: Global report 2022/2025. [online] Available at: https://www.unesco.org/en/world-media-trends [Accessed 24 Nov. 2026].
+UNESCO (n.d.). World trends in freedom of expression and media development | UNESCO. [online] www.unesco.org. Available at: https://www.unesco.org/en/world-media-trends [Accessed 24 Nov. 2026].
 
 World Health Organization (2024). Teens, screens and mental health. [online] World Health Organization. Available at: https://www.who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health [Accessed 24 Nov. 2026].
 
-Yan, T., Su, C., Xue, W., Hu, Y. and Zhou, H. (2024). Mobile phone short video use negatively impacts attention functions: an EEG study. *Frontiers in Human Neuroscience*, 18. doi:10.3389/fnhum.2024.1383913.
+Yan, T., Su, C., Xue, W., Hu, Y. and Zhou, H. (2024). Mobile phone short video use negatively impacts attention functions: An EEG study. Frontiers in Human Neuroscience, [online] 18(18), p.1383913. doi:10.3389/fnhum.2024.1383913.
 
 MacRumors (2018). Instagram expected to become 'more tightly integrated' with Facebook after photo app's founders leave company. [online] Available at: https://macrumors.com/2018/09/25/instagram-founders-leave-facebook [Accessed 23 Nov. 2026].
 
