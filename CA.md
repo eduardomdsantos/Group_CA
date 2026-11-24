@@ -263,7 +263,6 @@ While the main product changed in each era, from customisable profile pages and 
 For social media companies, long-term competitive advantage is shifting from flashy new features to user trust, meaning that ethical design and early compliance with regulations are smart business moves. For governments, major platforms are increasingly being treated like essential public infrastructure, as seen in new age restrictions and TikTok's US data rules. As AI becomes even more common online, the same conflict between engagement and well-being will keep showing up unless companies design around it from the start. Finally, this case study is limited by its reliance on secondary sources, company reports, and correlational studies. Ultimately, the history of social media from MySpace to TikTok shows that the platforms built to last will be the ones that earn user attention responsibly.
 
 ## 7. References
-**References**
 
 Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W. and Starnini, M. (2021). The echo chamber effect on social media. *Proceedings of the National Academy of Sciences*, 118(9), e2023301118. doi:10.1073/pnas.2023301118.
 
