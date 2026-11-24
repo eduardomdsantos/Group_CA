@@ -74,12 +74,12 @@ A societal viewpoint refers to a perspective of society on a particular topic. F
 ### 3.2. The impact:
 #### 3.2.1. Education:
 
-As social media has bocame more integrated into education it has introduced both advantages and disadvantages, the impact of this adaptation is shown below: 
+As social media has became more integrated into education it has introduced both advantages and disadvantages, the impact of this adaptation is shown below: 
 
 ##### Positive: 
 
 - Stay in touch: Students can communicate and socialize more easily  with one another through shared platforms like Instagram, TikTok and Snapchat. (Faverio, Anderson and Park, 2025)
-- Information: It became much easier for students to find information independantly and study on their own. "Social media platforms such as YouTube, Facebook and LiknedIn are increasingly recognised as informal learning environments" (OECD, 2026).
+- Information: It became much easier for students to find information independently and study on their own. "Social media platforms such as YouTube, Facebook and LiknedIn are increasingly recognised as informal learning environments" (OECD, 2026).
 
 ##### Negative: 
 
@@ -92,7 +92,7 @@ The development of social media has led to significant changes in how people com
 
 ##### Positive:
 
-- Easier connections: With the new, widely used social media platforms it has become much easier to meet new people nearby to socialize with. A 2025 PEW Research Center survey found that 74% of teenagres felt more connected to their friends through social media (Faverio, Anderson and Park, 2025).
+- Easier connections: With the new, widely used social media platforms it has become much easier to meet new people nearby to socialize with. A 2025 PEW Research Center survey found that 74% of teenagers felt more connected to their friends through social media (Faverio, Anderson and Park, 2025).
 - Worldwide communication: Social media mainly enables people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with little to no delay. (UNESCO, 2025)
 
 ##### Negative:
@@ -121,9 +121,9 @@ In every part of the societal view point, the development of social media has br
 
 Such things as bullying and misinformation have existed long before internet has been created, and the development of social media didn't create those things, but instead has contributed to how easily they are spread now
 
-On the other hand, the same thing can be said about the way it has made socialising and obtaining information much easier.
+On the other hand, the same thing can be said about the way it has made socializing and obtaining information much easier.
 
-To sumarise, the development of social media didn't create new problems or opportunities, it just enlarged already existing ones
+To summarise, the development of social media didn't create new problems or opportunities, it just enlarged already existing ones
 
 ## 4. Business Viewpoint Analysis
 ### 4.1. Defining the Business Viewpoint
