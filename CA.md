@@ -69,40 +69,40 @@ Artificial Intelligence (AI) has changed social media through personalised recom
 ## 3. Societal Viewpoint Analysis
 ### 3.1. Definition of the Societal Point of View:
 
-A societal viewpoint is a perspective of society on a topic. In case of this case study, it will examine how the growth and evolution of social media affected multiple social areas such as: Education, quality of life in communities and politics.
+A societal viewpoint refers to a perspective of society on a particular topic. For this case study, it will examine how the growth and development of social media affected different social areas such as: Education, quality of life in communities and politics.
 
 ### 3.2. The impact:
 #### 3.2.1. Education:
 
-As social media has bocame more integrated into education it has brought its drawbacks and benefits, the impact of that adaptation is shown below: 
+As social media has bocame more integrated into education it has introduced both advantages and disadvantages, the impact of this adaptation is shown below: 
 
 ##### Positive: 
 
-- Stay in touch: Students have easier time communicating and socializing  with each other via shared platforms like Instagram, TikTok and Snapchat. (Faverio, Anderson and Park, 2025)
-- Information: It became much easier for students to find information by themselves and study independently. "Social media platforms such as YouTube, Facebook and LiknedIn are increasingly recognised as informal learning environments" (OECD, 2026).
+- Stay in touch: Students can communicate and socialize more easily  with one another through shared platforms like Instagram, TikTok and Snapchat. (Faverio, Anderson and Park, 2025)
+- Information: It became much easier for students to find information independantly and study on their own. "Social media platforms such as YouTube, Facebook and LiknedIn are increasingly recognised as informal learning environments" (OECD, 2026).
 
 ##### Negative: 
 
-- Distraction: It has become a common issue that social media platforms distract students from their work, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
-- Focus: There is a connection between long exposure to the format of short videos that don't require concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Yan et al., 2025) .
+- Distraction: Social media platforms have become a source of distraction for students, whether it is at home or in class they choose social media and entertainment over a lecture or a class (OECD, 2026).
+- Focus: Extended exposure to the format of short videos that require little concentration and future problems with focusing on long, mundane tasks. "A significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region" (Yan et al., 2025) .
 
 #### 3.2.2. Communities
 
-The development of social media has led to huge changes in how people communicate and interact with each other on daily basis, examples of these changes are shown below:
+The development of social media has led to significant changes in how people communicate and interact with each other on daily basis, examples of these changes are shown below:
 
 ##### Positive:
 
-- Easier connections: With the new, widely used social media platforms it has become much easier to find new people around you to socialize with. A 2025 PEW Research Center survey found that 74% of teenagres felt more connected to their friends through social media (Faverio, Anderson and Park, 2025).
-- Worldwide communication: The main point of social media is to allow people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with little to no delay. (UNESCO, 2025)
+- Easier connections: With the new, widely used social media platforms it has become much easier to meet new people nearby to socialize with. A 2025 PEW Research Center survey found that 74% of teenagres felt more connected to their friends through social media (Faverio, Anderson and Park, 2025).
+- Worldwide communication: Social media mainly enables people to connect or stay in touch regardless of the geographical distance between them. Social media allows two people that live in completely different sides of the world communicate with little to no delay. (UNESCO, 2025)
 
 ##### Negative:
 
 - Social isolation: Social media makes communication easier, but excessive use of it can cause loneliness and lead to social isolation. "Problematic social media use shows a moderate and consistent association with greater loneliness" (OECD, 2026).
-- Mental health strain: As mentioned before, the development of social media has led to easier communications and connections, which also means it has led to easier spread of bullying. WHO states that around 1 in 6 teenagers have experienced cyberbullying (WHO, 2024).
+- Mental health strain: As mentioned before, the development of social media has made communications and connections easier, which also means it has led to easier spread of bullying. WHO states that around 1 in 6 teenagers have experienced cyberbullying (WHO, 2024).
 
 #### 3.2.3. Politics
 
-Although the social media in its largest is used for entertainment, it also serves as a useful tool in political side of many countries. The more developed and popular social media platforms in general become, the more they are used in political sphere.
+Although the social media is mostly used for entertainment, it also serves as a useful tool in political side of many countries. The more developed and popular social media platforms in general become, the more they are used in political sphere.
 
 ##### Positive:
 
